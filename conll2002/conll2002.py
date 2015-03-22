@@ -9,9 +9,20 @@ import sys
 import re
 import os
 import codecs
+import json
 
 INPUT_ENCODING = "Latin-1"
 OUTPUT_ENCODING = "UTF-8"
+
+def argparser():
+    import argparse
+    parser = argparse.ArgumentParser(description="Convert CoNLL'02 data.")
+    parser.add_argument('-o', '--output', metavar='DIR', default=None,
+                        help='Output directory.')
+    parser.add_argument('-f', '--format', choices=['oa', 'ann'], default='oa',
+                        help='Output format.')
+    parser.add_argument('file', nargs='+', help='Source file(s).')
+    return parser
 
 class Standoff(object):
     def __init__(self, id_, type_, start, end, text):
@@ -21,6 +32,17 @@ class Standoff(object):
         self.end = end
         self.text = text
         self.validate()
+
+    def to_oa(self, docpath):
+        """Convert Standoff to Open Annotation."""
+        # Assume Web Annotation WG context
+        annotation = {
+            '@id': str(self.id),
+            '@type': 'oa:Annotation',
+            'target': docpath + '#char=%d,%d' % (self.start, self.end),
+            'body': self.type
+        }
+        return annotation
 
     def validate(self):
         # sanity checks
@@ -50,24 +72,42 @@ def include_space(t1, t2, quote_count = None):
         return False
     return True
 
-def output_filenames(dir, infn, docnum):
+def output_filenames(dir, infn, docnum, suffix):
     outfn = os.path.join(dir, os.path.basename(infn)+'-doc-'+str(docnum))
-    return outfn+'.txt', outfn+'.ann'
+    return outfn+'.txt', outfn+'.'+suffix
 
-def write_out(txtout, soout, text, standoffs):
+def prettyprint(doc):
+    """Pretty-print JSON document."""
+    return json.dumps(doc, sort_keys=True, indent=2, separators=(',', ': '))
+
+def write_ann(textout, annout, text, standoffs):
     for so in standoffs:
-        print >> soout, unicode(so)
-    print >> txtout, text
+        print >> annout, unicode(so)
+    print >> textout, text
+write_ann.suffix = 'ann'
 
-def make_output_function(directory, basename):
+def write_oa(textout, annout, text, standoffs):
+    document = {
+        '@context': 'http://nlplab.org/ns/restoa-context-20150307.json',
+        '@graph': []
+    }
+    for so in standoffs:
+        document['@graph'].append(so.to_oa(os.path.basename(textout.name)))
+    print >> annout, prettyprint(document)
+    print >> textout, text
+write_oa.suffix = 'jsonld'
+
+def make_output_function(directory, basename, writer):
+    """Return function that invokes the writer with text and standoffs."""
     def output(text, standoffs):
         if directory is None:
-            write_out(sys.stdout, sys.stdout, text, standoffs)
+            writer(sys.stdout, sys.stdout, text, standoffs)
         else:
-            txtfn, sofn = output_filenames(directory, basename, output.docnum)
+            txtfn, sofn = output_filenames(directory, basename, output.docnum,
+                                           writer.suffix)
             with codecs.open(txtfn, 'wt', encoding=OUTPUT_ENCODING) as txtf:
                 with codecs.open(sofn, 'wt', encoding=OUTPUT_ENCODING) as sof:
-                    write_out(txtf, sof, text, standoffs)
+                    writer(txtf, sof, text, standoffs)
         output.docnum += 1
     output.docnum = 1
     return output
@@ -229,22 +269,20 @@ def convert_conll(source, callback):
         text, standoffs = text_and_standoffs(sentences)
         callback(text, standoffs)
 
+def select_writer(args):
+    if args.format == 'oa':
+        return write_oa
+    elif args.format == 'ann':
+        return write_ann
+    else:
+        assert False, 'internal error'
+
 def main(argv):
     # Take an optional "-o" arg specifying an output directory for the results
-    output_directory = None
-    filenames = argv[1:]
-    if len(argv) > 2 and argv[1] == "-o":
-        output_directory = argv[2]
-        print >> sys.stderr, "Writing output to %s" % output_directory
-        filenames = argv[3:]
-
-    if len(argv) < 2 or '-h' in argv[1:]:
-        print >> sys.stderr, 'Usage: %s [-o OUTDIR] FILE [FILE [...]]' % \
-            argv[0]
-        return 1
-
-    for fn in filenames:
-        output = make_output_function(output_directory, fn)
+    args = argparser().parse_args(argv[1:])
+    writer = select_writer(args)
+    for fn in args.file:
+        output = make_output_function(args.output, fn, writer)
         with codecs.open(fn, encoding=INPUT_ENCODING) as f:
             convert_conll(f, output)
     return 0
