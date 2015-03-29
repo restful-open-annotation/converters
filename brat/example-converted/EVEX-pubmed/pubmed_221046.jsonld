@@ -1,0 +1,109 @@
+{
+  "@context": "http://nlplab.org/ns/restoa-context-20150307.json",
+  "@graph": [
+    {
+      "@id": "T1g",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pubmed_221046.txt#char=33,47"
+    },
+    {
+      "@id": "NT1g1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:104228"
+      },
+      "target": "pubmed_221046.txt#char=33,47"
+    },
+    {
+      "@id": "NT1g3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:11030"
+      },
+      "target": "pubmed_221046.txt#char=33,47"
+    },
+    {
+      "@id": "NT1g4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:9606"
+      },
+      "target": "pubmed_221046.txt#char=33,47"
+    },
+    {
+      "@id": "T2g",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pubmed_221046.txt#char=201,215"
+    },
+    {
+      "@id": "NT2g1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:104228"
+      },
+      "target": "pubmed_221046.txt#char=201,215"
+    },
+    {
+      "@id": "NT2g3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:11030"
+      },
+      "target": "pubmed_221046.txt#char=201,215"
+    },
+    {
+      "@id": "NT2g4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:9606"
+      },
+      "target": "pubmed_221046.txt#char=201,215"
+    },
+    {
+      "@id": "T3g",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pubmed_221046.txt#char=306,320"
+    },
+    {
+      "@id": "NT3g4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:9606"
+      },
+      "target": "pubmed_221046.txt#char=306,320"
+    },
+    {
+      "@id": "T4g",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pubmed_221046.txt#char=463,477"
+    },
+    {
+      "@id": "NT4g1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:104228"
+      },
+      "target": "pubmed_221046.txt#char=463,477"
+    },
+    {
+      "@id": "NT4g3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:11030"
+      },
+      "target": "pubmed_221046.txt#char=463,477"
+    },
+    {
+      "@id": "NT4g4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:9606"
+      },
+      "target": "pubmed_221046.txt#char=463,477"
+    }
+  ]
+}

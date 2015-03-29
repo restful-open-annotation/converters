@@ -1,0 +1,111 @@
+{
+  "@context": "http://nlplab.org/ns/restoa-context-20150307.json",
+  "@graph": [
+    {
+      "@id": "T1g",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pubmed_6725078.txt#char=0,29"
+    },
+    {
+      "@id": "NT1g0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:42164"
+      },
+      "target": "pubmed_6725078.txt#char=0,29"
+    },
+    {
+      "@id": "NT1g1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:2539"
+      },
+      "target": "pubmed_6725078.txt#char=0,29"
+    },
+    {
+      "@id": "NT1g2",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "EG:7432"
+      },
+      "target": "pubmed_6725078.txt#char=0,29"
+    },
+    {
+      "@id": "NT1g3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:13560"
+      },
+      "target": "pubmed_6725078.txt#char=0,29"
+    },
+    {
+      "@id": "NT1g4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:9606"
+      },
+      "target": "pubmed_6725078.txt#char=0,29"
+    },
+    {
+      "@id": "T2g",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pubmed_6725078.txt#char=31,34"
+    },
+    {
+      "@id": "NT2g0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:42164"
+      },
+      "target": "pubmed_6725078.txt#char=31,34"
+    },
+    {
+      "@id": "NT2g1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:2539"
+      },
+      "target": "pubmed_6725078.txt#char=31,34"
+    },
+    {
+      "@id": "NT2g2",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "EG:7432"
+      },
+      "target": "pubmed_6725078.txt#char=31,34"
+    },
+    {
+      "@id": "NT2g3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:13560"
+      },
+      "target": "pubmed_6725078.txt#char=31,34"
+    },
+    {
+      "@id": "NT2g4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:9606"
+      },
+      "target": "pubmed_6725078.txt#char=31,34"
+    },
+    {
+      "@id": "T3g",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pubmed_6725078.txt#char=319,344"
+    },
+    {
+      "@id": "NT3g4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:9606"
+      },
+      "target": "pubmed_6725078.txt#char=319,344"
+    }
+  ]
+}

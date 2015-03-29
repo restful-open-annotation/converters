@@ -1,0 +1,63 @@
+{
+  "@context": "http://nlplab.org/ns/restoa-context-20150307.json",
+  "@graph": [
+    {
+      "@id": "T1g",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pubmed_18597487.txt#char=74,77"
+    },
+    {
+      "@id": "NT1g4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:9606"
+      },
+      "target": "pubmed_18597487.txt#char=74,77"
+    },
+    {
+      "@id": "T2g",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pubmed_18597487.txt#char=450,454"
+    },
+    {
+      "@id": "NT2g0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:110006"
+      },
+      "target": "pubmed_18597487.txt#char=450,454"
+    },
+    {
+      "@id": "NT2g4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:9606"
+      },
+      "target": "pubmed_18597487.txt#char=450,454"
+    },
+    {
+      "@id": "T3g",
+      "@type": "oa:Annotation",
+      "body": "Binding",
+      "target": "pubmed_18597487.txt#char=78,85"
+    },
+    {
+      "@id": "R1",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T3g",
+        "label": "Theme",
+        "to": "T1g"
+      },
+      "target": "pubmed_18597487.txt"
+    },
+    {
+      "@id": "AE1gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=high",
+      "target": "pubmed_18597487.txt#char=78,85"
+    }
+  ]
+}

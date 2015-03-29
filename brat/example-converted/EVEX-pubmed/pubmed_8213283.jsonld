@@ -1,0 +1,365 @@
+{
+  "@context": "http://nlplab.org/ns/restoa-context-20150307.json",
+  "@graph": [
+    {
+      "@id": "T1g",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pubmed_8213283.txt#char=0,10"
+    },
+    {
+      "@id": "NT1g0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:52483"
+      },
+      "target": "pubmed_8213283.txt#char=0,10"
+    },
+    {
+      "@id": "NT1g1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:111868"
+      },
+      "target": "pubmed_8213283.txt#char=0,10"
+    },
+    {
+      "@id": "NT1g3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:558488"
+      },
+      "target": "pubmed_8213283.txt#char=0,10"
+    },
+    {
+      "@id": "NT1g4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:9986"
+      },
+      "target": "pubmed_8213283.txt#char=0,10"
+    },
+    {
+      "@id": "T2g",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pubmed_8213283.txt#char=113,123"
+    },
+    {
+      "@id": "NT2g0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:52483"
+      },
+      "target": "pubmed_8213283.txt#char=113,123"
+    },
+    {
+      "@id": "NT2g1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:111868"
+      },
+      "target": "pubmed_8213283.txt#char=113,123"
+    },
+    {
+      "@id": "NT2g3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:558488"
+      },
+      "target": "pubmed_8213283.txt#char=113,123"
+    },
+    {
+      "@id": "NT2g4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:9986"
+      },
+      "target": "pubmed_8213283.txt#char=113,123"
+    },
+    {
+      "@id": "T3g",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pubmed_8213283.txt#char=150,160"
+    },
+    {
+      "@id": "NT3g0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:52483"
+      },
+      "target": "pubmed_8213283.txt#char=150,160"
+    },
+    {
+      "@id": "NT3g1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:111868"
+      },
+      "target": "pubmed_8213283.txt#char=150,160"
+    },
+    {
+      "@id": "NT3g3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:558488"
+      },
+      "target": "pubmed_8213283.txt#char=150,160"
+    },
+    {
+      "@id": "NT3g4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:9986"
+      },
+      "target": "pubmed_8213283.txt#char=150,160"
+    },
+    {
+      "@id": "T4g",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pubmed_8213283.txt#char=162,164"
+    },
+    {
+      "@id": "NT4g0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:202305"
+      },
+      "target": "pubmed_8213283.txt#char=162,164"
+    },
+    {
+      "@id": "NT4g1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:100065"
+      },
+      "target": "pubmed_8213283.txt#char=162,164"
+    },
+    {
+      "@id": "NT4g3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:3056"
+      },
+      "target": "pubmed_8213283.txt#char=162,164"
+    },
+    {
+      "@id": "NT4g4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:9986"
+      },
+      "target": "pubmed_8213283.txt#char=162,164"
+    },
+    {
+      "@id": "T5g",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pubmed_8213283.txt#char=317,335"
+    },
+    {
+      "@id": "NT5g4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:9986"
+      },
+      "target": "pubmed_8213283.txt#char=317,335"
+    },
+    {
+      "@id": "T6g",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pubmed_8213283.txt#char=557,579"
+    },
+    {
+      "@id": "NT6g4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:9986"
+      },
+      "target": "pubmed_8213283.txt#char=557,579"
+    },
+    {
+      "@id": "T7g",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pubmed_8213283.txt#char=608,618"
+    },
+    {
+      "@id": "NT7g0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:52483"
+      },
+      "target": "pubmed_8213283.txt#char=608,618"
+    },
+    {
+      "@id": "NT7g1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:111868"
+      },
+      "target": "pubmed_8213283.txt#char=608,618"
+    },
+    {
+      "@id": "NT7g3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:558488"
+      },
+      "target": "pubmed_8213283.txt#char=608,618"
+    },
+    {
+      "@id": "NT7g4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:9986"
+      },
+      "target": "pubmed_8213283.txt#char=608,618"
+    },
+    {
+      "@id": "T8g",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pubmed_8213283.txt#char=831,833"
+    },
+    {
+      "@id": "NT8g0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:202305"
+      },
+      "target": "pubmed_8213283.txt#char=831,833"
+    },
+    {
+      "@id": "NT8g1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:100065"
+      },
+      "target": "pubmed_8213283.txt#char=831,833"
+    },
+    {
+      "@id": "NT8g3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:3056"
+      },
+      "target": "pubmed_8213283.txt#char=831,833"
+    },
+    {
+      "@id": "NT8g4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:9986"
+      },
+      "target": "pubmed_8213283.txt#char=831,833"
+    },
+    {
+      "@id": "T9g",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pubmed_8213283.txt#char=907,909"
+    },
+    {
+      "@id": "NT9g0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:202305"
+      },
+      "target": "pubmed_8213283.txt#char=907,909"
+    },
+    {
+      "@id": "NT9g1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:100065"
+      },
+      "target": "pubmed_8213283.txt#char=907,909"
+    },
+    {
+      "@id": "NT9g3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:3056"
+      },
+      "target": "pubmed_8213283.txt#char=907,909"
+    },
+    {
+      "@id": "NT9g4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:9986"
+      },
+      "target": "pubmed_8213283.txt#char=907,909"
+    },
+    {
+      "@id": "T10g",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pubmed_8213283.txt#char=1047,1049"
+    },
+    {
+      "@id": "NT10g0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:202305"
+      },
+      "target": "pubmed_8213283.txt#char=1047,1049"
+    },
+    {
+      "@id": "NT10g1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:100065"
+      },
+      "target": "pubmed_8213283.txt#char=1047,1049"
+    },
+    {
+      "@id": "NT10g3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:3056"
+      },
+      "target": "pubmed_8213283.txt#char=1047,1049"
+    },
+    {
+      "@id": "NT10g4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:9986"
+      },
+      "target": "pubmed_8213283.txt#char=1047,1049"
+    },
+    {
+      "@id": "T11g",
+      "@type": "oa:Annotation",
+      "body": "Gene_expression",
+      "target": "pubmed_8213283.txt#char=301,313"
+    },
+    {
+      "@id": "R1",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T11g",
+        "label": "Theme",
+        "to": "T5g"
+      },
+      "target": "pubmed_8213283.txt"
+    },
+    {
+      "@id": "AE1gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=low",
+      "target": "pubmed_8213283.txt#char=301,313"
+    },
+    {
+      "@id": "AE1gS",
+      "@type": "oa:Annotation",
+      "body": "Speculation=",
+      "target": "pubmed_8213283.txt#char=301,313"
+    }
+  ]
+}

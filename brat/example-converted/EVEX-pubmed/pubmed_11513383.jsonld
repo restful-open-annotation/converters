@@ -1,0 +1,93 @@
+{
+  "@context": "http://nlplab.org/ns/restoa-context-20150307.json",
+  "@graph": [
+    {
+      "@id": "T1g",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pubmed_11513383.txt#char=135,138"
+    },
+    {
+      "@id": "NT1g2",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "EG:8215"
+      },
+      "target": "pubmed_11513383.txt#char=135,138"
+    },
+    {
+      "@id": "NT1g4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:9606"
+      },
+      "target": "pubmed_11513383.txt#char=135,138"
+    },
+    {
+      "@id": "T2g",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pubmed_11513383.txt#char=353,356"
+    },
+    {
+      "@id": "NT2g2",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "EG:8215"
+      },
+      "target": "pubmed_11513383.txt#char=353,356"
+    },
+    {
+      "@id": "NT2g4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:9606"
+      },
+      "target": "pubmed_11513383.txt#char=353,356"
+    },
+    {
+      "@id": "T3g",
+      "@type": "oa:Annotation",
+      "body": "Localization",
+      "target": "pubmed_11513383.txt#char=121,131"
+    },
+    {
+      "@id": "T4g",
+      "@type": "oa:Annotation",
+      "body": "Negative_regulation",
+      "target": "pubmed_11513383.txt#char=113,120"
+    },
+    {
+      "@id": "R1",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T4g",
+        "label": "Theme",
+        "to": "T3g"
+      },
+      "target": "pubmed_11513383.txt"
+    },
+    {
+      "@id": "AE1gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=low",
+      "target": "pubmed_11513383.txt#char=113,120"
+    },
+    {
+      "@id": "R2",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T3g",
+        "label": "Theme",
+        "to": "T1g"
+      },
+      "target": "pubmed_11513383.txt"
+    },
+    {
+      "@id": "AE2gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=low",
+      "target": "pubmed_11513383.txt#char=121,131"
+    }
+  ]
+}

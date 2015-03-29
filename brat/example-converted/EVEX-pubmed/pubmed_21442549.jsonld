@@ -1,0 +1,191 @@
+{
+  "@context": "http://nlplab.org/ns/restoa-context-20150307.json",
+  "@graph": [
+    {
+      "@id": "T1g",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pubmed_21442549.txt#char=79,95"
+    },
+    {
+      "@id": "NT1g0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:50061"
+      },
+      "target": "pubmed_21442549.txt#char=79,95"
+    },
+    {
+      "@id": "NT1g3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:310477"
+      },
+      "target": "pubmed_21442549.txt#char=79,95"
+    },
+    {
+      "@id": "NT1g4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:381124"
+      },
+      "target": "pubmed_21442549.txt#char=79,95"
+    },
+    {
+      "@id": "T6r",
+      "@type": "oa:Annotation",
+      "body": "Entity",
+      "target": "pubmed_21442549.txt#char=160,161"
+    },
+    {
+      "@id": "T2g",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pubmed_21442549.txt#char=170,186"
+    },
+    {
+      "@id": "NT2g0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:50061"
+      },
+      "target": "pubmed_21442549.txt#char=170,186"
+    },
+    {
+      "@id": "NT2g3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:310477"
+      },
+      "target": "pubmed_21442549.txt#char=170,186"
+    },
+    {
+      "@id": "NT2g4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:381124"
+      },
+      "target": "pubmed_21442549.txt#char=170,186"
+    },
+    {
+      "@id": "T3g",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pubmed_21442549.txt#char=572,604"
+    },
+    {
+      "@id": "NT3g4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:381124"
+      },
+      "target": "pubmed_21442549.txt#char=572,604"
+    },
+    {
+      "@id": "T4g",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pubmed_21442549.txt#char=712,726"
+    },
+    {
+      "@id": "NT4g0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:207013"
+      },
+      "target": "pubmed_21442549.txt#char=712,726"
+    },
+    {
+      "@id": "NT4g1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:21324"
+      },
+      "target": "pubmed_21442549.txt#char=712,726"
+    },
+    {
+      "@id": "NT4g3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:10950"
+      },
+      "target": "pubmed_21442549.txt#char=712,726"
+    },
+    {
+      "@id": "NT4g4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:381124"
+      },
+      "target": "pubmed_21442549.txt#char=712,726"
+    },
+    {
+      "@id": "T5g",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pubmed_21442549.txt#char=990,993"
+    },
+    {
+      "@id": "NT5g0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:54709"
+      },
+      "target": "pubmed_21442549.txt#char=990,993"
+    },
+    {
+      "@id": "NT5g1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:62211"
+      },
+      "target": "pubmed_21442549.txt#char=990,993"
+    },
+    {
+      "@id": "NT5g3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:803"
+      },
+      "target": "pubmed_21442549.txt#char=990,993"
+    },
+    {
+      "@id": "NT5g4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:381124"
+      },
+      "target": "pubmed_21442549.txt#char=990,993"
+    },
+    {
+      "@id": "T7r",
+      "@type": "oa:Annotation",
+      "body": "Entity",
+      "target": "pubmed_21442549.txt#char=994,1001"
+    },
+    {
+      "id": "R1r",
+      "obj": "T6r",
+      "pred": "Protein-Component",
+      "subj": "T2g"
+    },
+    {
+      "@id": "AR1rconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=medium",
+      "target": "pubmed_21442549.txt#char=170,161"
+    },
+    {
+      "id": "R2r",
+      "obj": "T7r",
+      "pred": "Protein-Component",
+      "subj": "T5g"
+    },
+    {
+      "@id": "AR2rconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=medium",
+      "target": "pubmed_21442549.txt#char=990,1001"
+    }
+  ]
+}

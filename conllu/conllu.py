@@ -38,12 +38,13 @@ class FormatError(Exception):
             msg += ' (line %d)' % self.linenum
         return msg
 
-def prettyprint_json(obj, utf8=True):
+def prettyprint_json(obj, ascii=False):
     ppargs = { 'sort_keys': True, 'indent': 2, 'separators': (',', ': ') }
-    if not utf8:
+    if ascii:
         # default, returns ASCII with escapes
         return json.dumps(obj, **ppargs)
     else:
+        # Unicode
         return json.dumps(obj, ensure_ascii=False, **ppargs)
 
 CPOSTAG_RE = re.compile(r'^[a-zA-Z]+$')

@@ -1,0 +1,2439 @@
+{
+  "@context": "http://nlplab.org/ns/restoa-context-20150307.json",
+  "@graph": [
+    {
+      "@id": "T1G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=4,18"
+    },
+    {
+      "@id": "NT1G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:135446"
+      },
+      "target": "pmc_3174196.txt#char=4,18"
+    },
+    {
+      "@id": "NT1G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:502"
+      },
+      "target": "pmc_3174196.txt#char=4,18"
+    },
+    {
+      "@id": "NT1G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:33123"
+      },
+      "target": "pmc_3174196.txt#char=4,18"
+    },
+    {
+      "@id": "NT1G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=4,18"
+    },
+    {
+      "@id": "T2G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=23,25"
+    },
+    {
+      "@id": "NT2G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:314539"
+      },
+      "target": "pmc_3174196.txt#char=23,25"
+    },
+    {
+      "@id": "NT2G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:105490"
+      },
+      "target": "pmc_3174196.txt#char=23,25"
+    },
+    {
+      "@id": "NT2G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:67552"
+      },
+      "target": "pmc_3174196.txt#char=23,25"
+    },
+    {
+      "@id": "NT2G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=23,25"
+    },
+    {
+      "@id": "T3G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=39,42"
+    },
+    {
+      "@id": "NT3G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:225665"
+      },
+      "target": "pmc_3174196.txt#char=39,42"
+    },
+    {
+      "@id": "NT3G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:496"
+      },
+      "target": "pmc_3174196.txt#char=39,42"
+    },
+    {
+      "@id": "NT3G2",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "EG:21926"
+      },
+      "target": "pmc_3174196.txt#char=39,42"
+    },
+    {
+      "@id": "NT3G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:5399"
+      },
+      "target": "pmc_3174196.txt#char=39,42"
+    },
+    {
+      "@id": "NT3G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=39,42"
+    },
+    {
+      "@id": "T4G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=47,52"
+    },
+    {
+      "@id": "NT4G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:1203"
+      },
+      "target": "pmc_3174196.txt#char=47,52"
+    },
+    {
+      "@id": "NT4G2",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "EG:15945"
+      },
+      "target": "pmc_3174196.txt#char=47,52"
+    },
+    {
+      "@id": "NT4G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:57017"
+      },
+      "target": "pmc_3174196.txt#char=47,52"
+    },
+    {
+      "@id": "NT4G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=47,52"
+    },
+    {
+      "@id": "T5G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=204,208"
+    },
+    {
+      "@id": "NT5G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=204,208"
+    },
+    {
+      "@id": "T6G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=343,347"
+    },
+    {
+      "@id": "NT6G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=343,347"
+    },
+    {
+      "@id": "T7G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=565,567"
+    },
+    {
+      "@id": "NT7G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:327325"
+      },
+      "target": "pmc_3174196.txt#char=565,567"
+    },
+    {
+      "@id": "NT7G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:7410"
+      },
+      "target": "pmc_3174196.txt#char=565,567"
+    },
+    {
+      "@id": "NT7G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:3451"
+      },
+      "target": "pmc_3174196.txt#char=565,567"
+    },
+    {
+      "@id": "NT7G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=565,567"
+    },
+    {
+      "@id": "T8G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=681,689"
+    },
+    {
+      "@id": "NT8G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=681,689"
+    },
+    {
+      "@id": "T9G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=762,775"
+    },
+    {
+      "@id": "NT9G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:181484"
+      },
+      "target": "pmc_3174196.txt#char=762,775"
+    },
+    {
+      "@id": "NT9G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:405"
+      },
+      "target": "pmc_3174196.txt#char=762,775"
+    },
+    {
+      "@id": "NT9G2",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "EG:11657"
+      },
+      "target": "pmc_3174196.txt#char=762,775"
+    },
+    {
+      "@id": "NT9G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:3828"
+      },
+      "target": "pmc_3174196.txt#char=762,775"
+    },
+    {
+      "@id": "NT9G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=762,775"
+    },
+    {
+      "@id": "T10G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=777,780"
+    },
+    {
+      "@id": "NT10G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:181484"
+      },
+      "target": "pmc_3174196.txt#char=777,780"
+    },
+    {
+      "@id": "NT10G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:405"
+      },
+      "target": "pmc_3174196.txt#char=777,780"
+    },
+    {
+      "@id": "NT10G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:3828"
+      },
+      "target": "pmc_3174196.txt#char=777,780"
+    },
+    {
+      "@id": "NT10G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=777,780"
+    },
+    {
+      "@id": "T11G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=912,917"
+    },
+    {
+      "@id": "NT11G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=912,917"
+    },
+    {
+      "@id": "T12G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=1046,1048"
+    },
+    {
+      "@id": "NT12G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:327325"
+      },
+      "target": "pmc_3174196.txt#char=1046,1048"
+    },
+    {
+      "@id": "NT12G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:7410"
+      },
+      "target": "pmc_3174196.txt#char=1046,1048"
+    },
+    {
+      "@id": "NT12G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:3451"
+      },
+      "target": "pmc_3174196.txt#char=1046,1048"
+    },
+    {
+      "@id": "NT12G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=1046,1048"
+    },
+    {
+      "@id": "T13G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=1198,1200"
+    },
+    {
+      "@id": "NT13G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:327325"
+      },
+      "target": "pmc_3174196.txt#char=1198,1200"
+    },
+    {
+      "@id": "NT13G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:7410"
+      },
+      "target": "pmc_3174196.txt#char=1198,1200"
+    },
+    {
+      "@id": "NT13G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:3451"
+      },
+      "target": "pmc_3174196.txt#char=1198,1200"
+    },
+    {
+      "@id": "NT13G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=1198,1200"
+    },
+    {
+      "@id": "T14G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=1202,1209"
+    },
+    {
+      "@id": "NT14G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:270967"
+      },
+      "target": "pmc_3174196.txt#char=1202,1209"
+    },
+    {
+      "@id": "NT14G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=1202,1209"
+    },
+    {
+      "@id": "T15G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=1424,1431"
+    },
+    {
+      "@id": "NT15G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:64833"
+      },
+      "target": "pmc_3174196.txt#char=1424,1431"
+    },
+    {
+      "@id": "NT15G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=1424,1431"
+    },
+    {
+      "@id": "T16G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=1434,1447"
+    },
+    {
+      "@id": "NT16G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:135446"
+      },
+      "target": "pmc_3174196.txt#char=1434,1447"
+    },
+    {
+      "@id": "NT16G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:502"
+      },
+      "target": "pmc_3174196.txt#char=1434,1447"
+    },
+    {
+      "@id": "NT16G2",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "EG:16193"
+      },
+      "target": "pmc_3174196.txt#char=1434,1447"
+    },
+    {
+      "@id": "NT16G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:33123"
+      },
+      "target": "pmc_3174196.txt#char=1434,1447"
+    },
+    {
+      "@id": "NT16G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=1434,1447"
+    },
+    {
+      "@id": "T17G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=1449,1453"
+    },
+    {
+      "@id": "NT17G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:135446"
+      },
+      "target": "pmc_3174196.txt#char=1449,1453"
+    },
+    {
+      "@id": "NT17G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:502"
+      },
+      "target": "pmc_3174196.txt#char=1449,1453"
+    },
+    {
+      "@id": "NT17G2",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "EG:16193"
+      },
+      "target": "pmc_3174196.txt#char=1449,1453"
+    },
+    {
+      "@id": "NT17G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:33123"
+      },
+      "target": "pmc_3174196.txt#char=1449,1453"
+    },
+    {
+      "@id": "NT17G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=1449,1453"
+    },
+    {
+      "@id": "T18G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=1622,1626"
+    },
+    {
+      "@id": "NT18G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:135446"
+      },
+      "target": "pmc_3174196.txt#char=1622,1626"
+    },
+    {
+      "@id": "NT18G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:502"
+      },
+      "target": "pmc_3174196.txt#char=1622,1626"
+    },
+    {
+      "@id": "NT18G2",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "EG:16193"
+      },
+      "target": "pmc_3174196.txt#char=1622,1626"
+    },
+    {
+      "@id": "NT18G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:33123"
+      },
+      "target": "pmc_3174196.txt#char=1622,1626"
+    },
+    {
+      "@id": "NT18G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=1622,1626"
+    },
+    {
+      "@id": "T19G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=1706,1738"
+    },
+    {
+      "@id": "NT19G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:1203"
+      },
+      "target": "pmc_3174196.txt#char=1706,1738"
+    },
+    {
+      "@id": "NT19G2",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "EG:15945"
+      },
+      "target": "pmc_3174196.txt#char=1706,1738"
+    },
+    {
+      "@id": "NT19G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:57017"
+      },
+      "target": "pmc_3174196.txt#char=1706,1738"
+    },
+    {
+      "@id": "NT19G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=1706,1738"
+    },
+    {
+      "@id": "T20G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=1740,1745"
+    },
+    {
+      "@id": "NT20G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:1203"
+      },
+      "target": "pmc_3174196.txt#char=1740,1745"
+    },
+    {
+      "@id": "NT20G2",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "EG:15945"
+      },
+      "target": "pmc_3174196.txt#char=1740,1745"
+    },
+    {
+      "@id": "NT20G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:57017"
+      },
+      "target": "pmc_3174196.txt#char=1740,1745"
+    },
+    {
+      "@id": "NT20G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=1740,1745"
+    },
+    {
+      "@id": "T21G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=1751,1779"
+    },
+    {
+      "@id": "NT21G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:135446"
+      },
+      "target": "pmc_3174196.txt#char=1751,1779"
+    },
+    {
+      "@id": "NT21G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:502"
+      },
+      "target": "pmc_3174196.txt#char=1751,1779"
+    },
+    {
+      "@id": "NT21G2",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "EG:16193"
+      },
+      "target": "pmc_3174196.txt#char=1751,1779"
+    },
+    {
+      "@id": "NT21G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:33123"
+      },
+      "target": "pmc_3174196.txt#char=1751,1779"
+    },
+    {
+      "@id": "NT21G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=1751,1779"
+    },
+    {
+      "@id": "T22G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=1781,1790"
+    },
+    {
+      "@id": "NT22G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:225665"
+      },
+      "target": "pmc_3174196.txt#char=1781,1790"
+    },
+    {
+      "@id": "NT22G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:496"
+      },
+      "target": "pmc_3174196.txt#char=1781,1790"
+    },
+    {
+      "@id": "NT22G2",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "EG:21926"
+      },
+      "target": "pmc_3174196.txt#char=1781,1790"
+    },
+    {
+      "@id": "NT22G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:5399"
+      },
+      "target": "pmc_3174196.txt#char=1781,1790"
+    },
+    {
+      "@id": "NT22G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=1781,1790"
+    },
+    {
+      "@id": "T23G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=2140,2144"
+    },
+    {
+      "@id": "NT23G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=2140,2144"
+    },
+    {
+      "@id": "T24G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=2224,2228"
+    },
+    {
+      "@id": "NT24G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:135446"
+      },
+      "target": "pmc_3174196.txt#char=2224,2228"
+    },
+    {
+      "@id": "NT24G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:502"
+      },
+      "target": "pmc_3174196.txt#char=2224,2228"
+    },
+    {
+      "@id": "NT24G2",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "EG:16193"
+      },
+      "target": "pmc_3174196.txt#char=2224,2228"
+    },
+    {
+      "@id": "NT24G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:33123"
+      },
+      "target": "pmc_3174196.txt#char=2224,2228"
+    },
+    {
+      "@id": "NT24G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=2224,2228"
+    },
+    {
+      "@id": "T25G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=2233,2235"
+    },
+    {
+      "@id": "NT25G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:314539"
+      },
+      "target": "pmc_3174196.txt#char=2233,2235"
+    },
+    {
+      "@id": "NT25G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:105490"
+      },
+      "target": "pmc_3174196.txt#char=2233,2235"
+    },
+    {
+      "@id": "NT25G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:67552"
+      },
+      "target": "pmc_3174196.txt#char=2233,2235"
+    },
+    {
+      "@id": "NT25G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=2233,2235"
+    },
+    {
+      "@id": "T26G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=2345,2349"
+    },
+    {
+      "@id": "NT26G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:135446"
+      },
+      "target": "pmc_3174196.txt#char=2345,2349"
+    },
+    {
+      "@id": "NT26G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:502"
+      },
+      "target": "pmc_3174196.txt#char=2345,2349"
+    },
+    {
+      "@id": "NT26G2",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "EG:16193"
+      },
+      "target": "pmc_3174196.txt#char=2345,2349"
+    },
+    {
+      "@id": "NT26G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:33123"
+      },
+      "target": "pmc_3174196.txt#char=2345,2349"
+    },
+    {
+      "@id": "NT26G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=2345,2349"
+    },
+    {
+      "@id": "T27G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=2429,2437"
+    },
+    {
+      "@id": "NT27G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:142715"
+      },
+      "target": "pmc_3174196.txt#char=2429,2437"
+    },
+    {
+      "@id": "NT27G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:10695"
+      },
+      "target": "pmc_3174196.txt#char=2429,2437"
+    },
+    {
+      "@id": "NT27G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:6858"
+      },
+      "target": "pmc_3174196.txt#char=2429,2437"
+    },
+    {
+      "@id": "NT27G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=2429,2437"
+    },
+    {
+      "@id": "T28G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=2495,2497"
+    },
+    {
+      "@id": "NT28G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:327325"
+      },
+      "target": "pmc_3174196.txt#char=2495,2497"
+    },
+    {
+      "@id": "NT28G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:7410"
+      },
+      "target": "pmc_3174196.txt#char=2495,2497"
+    },
+    {
+      "@id": "NT28G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:3451"
+      },
+      "target": "pmc_3174196.txt#char=2495,2497"
+    },
+    {
+      "@id": "NT28G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=2495,2497"
+    },
+    {
+      "@id": "T29G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=2561,2564"
+    },
+    {
+      "@id": "NT29G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=2561,2564"
+    },
+    {
+      "@id": "T30G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=2569,2577"
+    },
+    {
+      "@id": "NT30G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=2569,2577"
+    },
+    {
+      "@id": "T31G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=2579,2582"
+    },
+    {
+      "@id": "NT31G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=2579,2582"
+    },
+    {
+      "@id": "T32G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=2722,2724"
+    },
+    {
+      "@id": "NT32G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:327325"
+      },
+      "target": "pmc_3174196.txt#char=2722,2724"
+    },
+    {
+      "@id": "NT32G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:7410"
+      },
+      "target": "pmc_3174196.txt#char=2722,2724"
+    },
+    {
+      "@id": "NT32G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:3451"
+      },
+      "target": "pmc_3174196.txt#char=2722,2724"
+    },
+    {
+      "@id": "NT32G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:9606"
+      },
+      "target": "pmc_3174196.txt#char=2722,2724"
+    },
+    {
+      "@id": "T33G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=2949,2953"
+    },
+    {
+      "@id": "NT33G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=2949,2953"
+    },
+    {
+      "@id": "T34G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=3032,3056"
+    },
+    {
+      "@id": "NT34G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=3032,3056"
+    },
+    {
+      "@id": "T35G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=3058,3064"
+    },
+    {
+      "@id": "NT35G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:58950"
+      },
+      "target": "pmc_3174196.txt#char=3058,3064"
+    },
+    {
+      "@id": "NT35G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:6713"
+      },
+      "target": "pmc_3174196.txt#char=3058,3064"
+    },
+    {
+      "@id": "NT35G2",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "EG:103199"
+      },
+      "target": "pmc_3174196.txt#char=3058,3064"
+    },
+    {
+      "@id": "NT35G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:2435"
+      },
+      "target": "pmc_3174196.txt#char=3058,3064"
+    },
+    {
+      "@id": "NT35G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=3058,3064"
+    },
+    {
+      "@id": "T36G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=3067,3071"
+    },
+    {
+      "@id": "NT36G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:135446"
+      },
+      "target": "pmc_3174196.txt#char=3067,3071"
+    },
+    {
+      "@id": "NT36G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:502"
+      },
+      "target": "pmc_3174196.txt#char=3067,3071"
+    },
+    {
+      "@id": "NT36G2",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "EG:16193"
+      },
+      "target": "pmc_3174196.txt#char=3067,3071"
+    },
+    {
+      "@id": "NT36G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:33123"
+      },
+      "target": "pmc_3174196.txt#char=3067,3071"
+    },
+    {
+      "@id": "NT36G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=3067,3071"
+    },
+    {
+      "@id": "T37G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=3076,3078"
+    },
+    {
+      "@id": "NT37G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:314539"
+      },
+      "target": "pmc_3174196.txt#char=3076,3078"
+    },
+    {
+      "@id": "NT37G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:105490"
+      },
+      "target": "pmc_3174196.txt#char=3076,3078"
+    },
+    {
+      "@id": "NT37G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:67552"
+      },
+      "target": "pmc_3174196.txt#char=3076,3078"
+    },
+    {
+      "@id": "NT37G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=3076,3078"
+    },
+    {
+      "@id": "T38G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=3288,3292"
+    },
+    {
+      "@id": "NT38G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:135446"
+      },
+      "target": "pmc_3174196.txt#char=3288,3292"
+    },
+    {
+      "@id": "NT38G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:502"
+      },
+      "target": "pmc_3174196.txt#char=3288,3292"
+    },
+    {
+      "@id": "NT38G2",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "EG:16193"
+      },
+      "target": "pmc_3174196.txt#char=3288,3292"
+    },
+    {
+      "@id": "NT38G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:33123"
+      },
+      "target": "pmc_3174196.txt#char=3288,3292"
+    },
+    {
+      "@id": "NT38G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=3288,3292"
+    },
+    {
+      "@id": "T39G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=3572,3576"
+    },
+    {
+      "@id": "NT39G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:135446"
+      },
+      "target": "pmc_3174196.txt#char=3572,3576"
+    },
+    {
+      "@id": "NT39G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:502"
+      },
+      "target": "pmc_3174196.txt#char=3572,3576"
+    },
+    {
+      "@id": "NT39G2",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "EG:16193"
+      },
+      "target": "pmc_3174196.txt#char=3572,3576"
+    },
+    {
+      "@id": "NT39G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:33123"
+      },
+      "target": "pmc_3174196.txt#char=3572,3576"
+    },
+    {
+      "@id": "NT39G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=3572,3576"
+    },
+    {
+      "@id": "T40G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=3581,3583"
+    },
+    {
+      "@id": "NT40G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:314539"
+      },
+      "target": "pmc_3174196.txt#char=3581,3583"
+    },
+    {
+      "@id": "NT40G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:105490"
+      },
+      "target": "pmc_3174196.txt#char=3581,3583"
+    },
+    {
+      "@id": "NT40G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:67552"
+      },
+      "target": "pmc_3174196.txt#char=3581,3583"
+    },
+    {
+      "@id": "NT40G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=3581,3583"
+    },
+    {
+      "@id": "T41G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=3663,3667"
+    },
+    {
+      "@id": "NT41G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:135446"
+      },
+      "target": "pmc_3174196.txt#char=3663,3667"
+    },
+    {
+      "@id": "NT41G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:502"
+      },
+      "target": "pmc_3174196.txt#char=3663,3667"
+    },
+    {
+      "@id": "NT41G2",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "EG:16193"
+      },
+      "target": "pmc_3174196.txt#char=3663,3667"
+    },
+    {
+      "@id": "NT41G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:33123"
+      },
+      "target": "pmc_3174196.txt#char=3663,3667"
+    },
+    {
+      "@id": "NT41G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=3663,3667"
+    },
+    {
+      "@id": "T42G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=3672,3674"
+    },
+    {
+      "@id": "NT42G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:314539"
+      },
+      "target": "pmc_3174196.txt#char=3672,3674"
+    },
+    {
+      "@id": "NT42G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:105490"
+      },
+      "target": "pmc_3174196.txt#char=3672,3674"
+    },
+    {
+      "@id": "NT42G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:67552"
+      },
+      "target": "pmc_3174196.txt#char=3672,3674"
+    },
+    {
+      "@id": "NT42G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=3672,3674"
+    },
+    {
+      "@id": "T43G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=3798,3803"
+    },
+    {
+      "@id": "NT43G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:1203"
+      },
+      "target": "pmc_3174196.txt#char=3798,3803"
+    },
+    {
+      "@id": "NT43G2",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "EG:15945"
+      },
+      "target": "pmc_3174196.txt#char=3798,3803"
+    },
+    {
+      "@id": "NT43G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:57017"
+      },
+      "target": "pmc_3174196.txt#char=3798,3803"
+    },
+    {
+      "@id": "NT43G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=3798,3803"
+    },
+    {
+      "@id": "T44G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=3811,3820"
+    },
+    {
+      "@id": "NT44G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:225665"
+      },
+      "target": "pmc_3174196.txt#char=3811,3820"
+    },
+    {
+      "@id": "NT44G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:496"
+      },
+      "target": "pmc_3174196.txt#char=3811,3820"
+    },
+    {
+      "@id": "NT44G2",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "EG:21926"
+      },
+      "target": "pmc_3174196.txt#char=3811,3820"
+    },
+    {
+      "@id": "NT44G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:5399"
+      },
+      "target": "pmc_3174196.txt#char=3811,3820"
+    },
+    {
+      "@id": "NT44G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=3811,3820"
+    },
+    {
+      "@id": "T45G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=4024,4034"
+    },
+    {
+      "@id": "NT45G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:225665"
+      },
+      "target": "pmc_3174196.txt#char=4024,4034"
+    },
+    {
+      "@id": "NT45G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:496"
+      },
+      "target": "pmc_3174196.txt#char=4024,4034"
+    },
+    {
+      "@id": "NT45G2",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "EG:21926"
+      },
+      "target": "pmc_3174196.txt#char=4024,4034"
+    },
+    {
+      "@id": "NT45G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:5399"
+      },
+      "target": "pmc_3174196.txt#char=4024,4034"
+    },
+    {
+      "@id": "NT45G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=4024,4034"
+    },
+    {
+      "@id": "T46G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=4169,4174"
+    },
+    {
+      "@id": "NT46G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:1203"
+      },
+      "target": "pmc_3174196.txt#char=4169,4174"
+    },
+    {
+      "@id": "NT46G2",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "EG:15945"
+      },
+      "target": "pmc_3174196.txt#char=4169,4174"
+    },
+    {
+      "@id": "NT46G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:57017"
+      },
+      "target": "pmc_3174196.txt#char=4169,4174"
+    },
+    {
+      "@id": "NT46G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=4169,4174"
+    },
+    {
+      "@id": "T47G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=4302,4311"
+    },
+    {
+      "@id": "NT47G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:225665"
+      },
+      "target": "pmc_3174196.txt#char=4302,4311"
+    },
+    {
+      "@id": "NT47G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:496"
+      },
+      "target": "pmc_3174196.txt#char=4302,4311"
+    },
+    {
+      "@id": "NT47G2",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "EG:21926"
+      },
+      "target": "pmc_3174196.txt#char=4302,4311"
+    },
+    {
+      "@id": "NT47G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:5399"
+      },
+      "target": "pmc_3174196.txt#char=4302,4311"
+    },
+    {
+      "@id": "NT47G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=4302,4311"
+    },
+    {
+      "@id": "T48G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=4575,4577"
+    },
+    {
+      "@id": "NT48G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:327325"
+      },
+      "target": "pmc_3174196.txt#char=4575,4577"
+    },
+    {
+      "@id": "NT48G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:7410"
+      },
+      "target": "pmc_3174196.txt#char=4575,4577"
+    },
+    {
+      "@id": "NT48G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:3451"
+      },
+      "target": "pmc_3174196.txt#char=4575,4577"
+    },
+    {
+      "@id": "NT48G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=4575,4577"
+    },
+    {
+      "@id": "T49G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=4619,4623"
+    },
+    {
+      "@id": "NT49G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:135446"
+      },
+      "target": "pmc_3174196.txt#char=4619,4623"
+    },
+    {
+      "@id": "NT49G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:502"
+      },
+      "target": "pmc_3174196.txt#char=4619,4623"
+    },
+    {
+      "@id": "NT49G2",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "EG:16193"
+      },
+      "target": "pmc_3174196.txt#char=4619,4623"
+    },
+    {
+      "@id": "NT49G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:33123"
+      },
+      "target": "pmc_3174196.txt#char=4619,4623"
+    },
+    {
+      "@id": "NT49G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=4619,4623"
+    },
+    {
+      "@id": "T50G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=4717,4721"
+    },
+    {
+      "@id": "NT50G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:135446"
+      },
+      "target": "pmc_3174196.txt#char=4717,4721"
+    },
+    {
+      "@id": "NT50G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:502"
+      },
+      "target": "pmc_3174196.txt#char=4717,4721"
+    },
+    {
+      "@id": "NT50G2",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "EG:16193"
+      },
+      "target": "pmc_3174196.txt#char=4717,4721"
+    },
+    {
+      "@id": "NT50G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:33123"
+      },
+      "target": "pmc_3174196.txt#char=4717,4721"
+    },
+    {
+      "@id": "NT50G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=4717,4721"
+    },
+    {
+      "@id": "T51G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=4726,4732"
+    },
+    {
+      "@id": "NT51G0",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSGF:314539"
+      },
+      "target": "pmc_3174196.txt#char=4726,4732"
+    },
+    {
+      "@id": "NT51G1",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "HG:105490"
+      },
+      "target": "pmc_3174196.txt#char=4726,4732"
+    },
+    {
+      "@id": "NT51G3",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "ENSF:67552"
+      },
+      "target": "pmc_3174196.txt#char=4726,4732"
+    },
+    {
+      "@id": "NT51G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=4726,4732"
+    },
+    {
+      "@id": "T52G",
+      "@type": "oa:Annotation",
+      "body": "GGP",
+      "target": "pmc_3174196.txt#char=4961,4965"
+    },
+    {
+      "@id": "NT52G4",
+      "@type": "oa:Annotation",
+      "body": {
+        "@id": "NCBITaxon:10090"
+      },
+      "target": "pmc_3174196.txt#char=4961,4965"
+    },
+    {
+      "@id": "T65G",
+      "@type": "oa:Annotation",
+      "body": "Gene_expression",
+      "target": "pmc_3174196.txt#char=4178,4186"
+    },
+    {
+      "@id": "T66G",
+      "@type": "oa:Annotation",
+      "body": "Localization",
+      "target": "pmc_3174196.txt#char=4366,4374"
+    },
+    {
+      "@id": "T56G",
+      "@type": "oa:Annotation",
+      "body": "Negative_regulation",
+      "target": "pmc_3174196.txt#char=217,221"
+    },
+    {
+      "@id": "T59G",
+      "@type": "oa:Annotation",
+      "body": "Binding",
+      "target": "pmc_3174196.txt#char=1411,1422"
+    },
+    {
+      "@id": "T57G",
+      "@type": "oa:Annotation",
+      "body": "Gene_expression",
+      "target": "pmc_3174196.txt#char=741,749"
+    },
+    {
+      "@id": "T55G",
+      "@type": "oa:Annotation",
+      "body": "Regulation",
+      "target": "pmc_3174196.txt#char=177,182"
+    },
+    {
+      "@id": "T58G",
+      "@type": "oa:Annotation",
+      "body": "Gene_expression",
+      "target": "pmc_3174196.txt#char=1168,1175"
+    },
+    {
+      "@id": "T62G",
+      "@type": "oa:Annotation",
+      "body": "Gene_expression",
+      "target": "pmc_3174196.txt#char=2959,2966"
+    },
+    {
+      "@id": "T54G",
+      "@type": "oa:Annotation",
+      "body": "Negative_regulation",
+      "target": "pmc_3174196.txt#char=121,128"
+    },
+    {
+      "@id": "T61G",
+      "@type": "oa:Annotation",
+      "body": "Positive_regulation",
+      "target": "pmc_3174196.txt#char=1815,1824"
+    },
+    {
+      "@id": "T60G",
+      "@type": "oa:Annotation",
+      "body": "Positive_regulation",
+      "target": "pmc_3174196.txt#char=1500,1508"
+    },
+    {
+      "@id": "T67G",
+      "@type": "oa:Annotation",
+      "body": "Positive_regulation",
+      "target": "pmc_3174196.txt#char=4745,4753"
+    },
+    {
+      "@id": "T63G",
+      "@type": "oa:Annotation",
+      "body": "Positive_regulation",
+      "target": "pmc_3174196.txt#char=3084,3093"
+    },
+    {
+      "@id": "T53G",
+      "@type": "oa:Annotation",
+      "body": "Positive_regulation",
+      "target": "pmc_3174196.txt#char=59,67"
+    },
+    {
+      "@id": "T64G",
+      "@type": "oa:Annotation",
+      "body": "Regulation",
+      "target": "pmc_3174196.txt#char=3907,3914"
+    },
+    {
+      "@id": "R1",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T56G",
+        "label": "Theme",
+        "to": "T5G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE10Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=medium",
+      "target": "pmc_3174196.txt#char=217,221"
+    },
+    {
+      "@id": "R2",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T55G",
+        "label": "Theme",
+        "to": "T56G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE11Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=medium",
+      "target": "pmc_3174196.txt#char=177,182"
+    },
+    {
+      "@id": "R3",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T57G",
+        "label": "Theme",
+        "to": "T9G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE12Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=low",
+      "target": "pmc_3174196.txt#char=741,749"
+    },
+    {
+      "@id": "R4",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T57G",
+        "label": "Theme",
+        "to": "T10G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE13Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=low",
+      "target": "pmc_3174196.txt#char=741,749"
+    },
+    {
+      "@id": "R5",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T58G",
+        "label": "Theme",
+        "to": "T13G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE14Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=medium",
+      "target": "pmc_3174196.txt#char=1168,1175"
+    },
+    {
+      "@id": "R6",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T58G",
+        "label": "Theme",
+        "to": "T14G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE15Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=medium",
+      "target": "pmc_3174196.txt#char=1168,1175"
+    },
+    {
+      "@id": "R7",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T59G",
+        "label": "Theme",
+        "to": "T15G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE16Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=medium",
+      "target": "pmc_3174196.txt#char=1411,1422"
+    },
+    {
+      "@id": "R8",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T60G",
+        "label": "Theme",
+        "to": "T16G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE17Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=high",
+      "target": "pmc_3174196.txt#char=1500,1508"
+    },
+    {
+      "@id": "R9",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T60G",
+        "label": "Theme",
+        "to": "T17G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE18Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=medium",
+      "target": "pmc_3174196.txt#char=1500,1508"
+    },
+    {
+      "@id": "R10",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T61G",
+        "label": "Theme",
+        "to": "T19G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE19Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=high",
+      "target": "pmc_3174196.txt#char=1815,1824"
+    },
+    {
+      "@id": "R11",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T53G",
+        "label": "Theme",
+        "to": "T1G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE1Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=high",
+      "target": "pmc_3174196.txt#char=59,67"
+    },
+    {
+      "@id": "R12",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T61G",
+        "label": "Theme",
+        "to": "T20G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE20Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=high",
+      "target": "pmc_3174196.txt#char=1815,1824"
+    },
+    {
+      "@id": "R13",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T61G",
+        "label": "Theme",
+        "to": "T21G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE21Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=high",
+      "target": "pmc_3174196.txt#char=1815,1824"
+    },
+    {
+      "@id": "R14",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T61G",
+        "label": "Theme",
+        "to": "T22G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE22Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=medium",
+      "target": "pmc_3174196.txt#char=1815,1824"
+    },
+    {
+      "@id": "R15",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T62G",
+        "label": "Theme",
+        "to": "T34G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE23Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=low",
+      "target": "pmc_3174196.txt#char=2959,2966"
+    },
+    {
+      "@id": "R16",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T62G",
+        "label": "Theme",
+        "to": "T35G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE24Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=low",
+      "target": "pmc_3174196.txt#char=2959,2966"
+    },
+    {
+      "@id": "R17",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T63G",
+        "label": "Theme",
+        "to": "T36G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE25Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=high",
+      "target": "pmc_3174196.txt#char=3084,3093"
+    },
+    {
+      "@id": "R18",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T63G",
+        "label": "Theme",
+        "to": "T37G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE26Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=high",
+      "target": "pmc_3174196.txt#char=3084,3093"
+    },
+    {
+      "@id": "R19",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T64G",
+        "label": "Theme",
+        "to": "T43G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE27Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=high",
+      "target": "pmc_3174196.txt#char=3907,3914"
+    },
+    {
+      "@id": "R20",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T64G",
+        "label": "Theme",
+        "to": "T44G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE28Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=high",
+      "target": "pmc_3174196.txt#char=3907,3914"
+    },
+    {
+      "@id": "R21",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T65G",
+        "label": "Theme",
+        "to": "T46G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE29Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=medium",
+      "target": "pmc_3174196.txt#char=4178,4186"
+    },
+    {
+      "@id": "R22",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T53G",
+        "label": "Theme",
+        "to": "T2G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE2Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=medium",
+      "target": "pmc_3174196.txt#char=59,67"
+    },
+    {
+      "@id": "R23",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T66G",
+        "label": "Theme",
+        "to": "T47G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE30Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=medium",
+      "target": "pmc_3174196.txt#char=4366,4374"
+    },
+    {
+      "@id": "R24",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T67G",
+        "label": "Theme",
+        "to": "T50G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE31Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=low",
+      "target": "pmc_3174196.txt#char=4745,4753"
+    },
+    {
+      "@id": "R25",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T67G",
+        "label": "Theme",
+        "to": "T51G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE32Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=low",
+      "target": "pmc_3174196.txt#char=4745,4753"
+    },
+    {
+      "@id": "R26",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T53G",
+        "label": "Theme",
+        "to": "T3G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE3Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=high",
+      "target": "pmc_3174196.txt#char=59,67"
+    },
+    {
+      "@id": "R27",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T53G",
+        "label": "Theme",
+        "to": "T4G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE4Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=medium",
+      "target": "pmc_3174196.txt#char=59,67"
+    },
+    {
+      "@id": "R28",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T54G",
+        "label": "Theme",
+        "to": "T1G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE5Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=medium",
+      "target": "pmc_3174196.txt#char=121,128"
+    },
+    {
+      "@id": "R29",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T54G",
+        "label": "Theme",
+        "to": "T2G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE6Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=medium",
+      "target": "pmc_3174196.txt#char=121,128"
+    },
+    {
+      "@id": "R30",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T54G",
+        "label": "Theme",
+        "to": "T3G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE7Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=medium",
+      "target": "pmc_3174196.txt#char=121,128"
+    },
+    {
+      "@id": "R31",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T54G",
+        "label": "Theme",
+        "to": "T4G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE8Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=medium",
+      "target": "pmc_3174196.txt#char=121,128"
+    },
+    {
+      "@id": "R32",
+      "@type": "oa:Annotation",
+      "body": {
+        "from": "T55G",
+        "label": "Theme",
+        "to": "T5G"
+      },
+      "target": "pmc_3174196.txt"
+    },
+    {
+      "@id": "AE9Gconf",
+      "@type": "oa:Annotation",
+      "body": "Confidence=medium",
+      "target": "pmc_3174196.txt#char=177,182"
+    }
+  ]
+}
