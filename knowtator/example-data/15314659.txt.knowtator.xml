@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="15314659.txt">
+  <annotation>
+    <mention id="cell_Instance_291692" />
+    <annotator id="cell_Instance_200000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1715" end="1719" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cell_Instance_291694" />
+    <annotator id="cell_Instance_200000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6174" end="6184" />
+    <spannedText>stem cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cell_Instance_291696" />
+    <annotator id="cell_Instance_200000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6520" end="6530" />
+    <spannedText>stem cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cell_Instance_291698" />
+    <annotator id="cell_Instance_200000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17194" end="17204" />
+    <spannedText>stem cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cell_Instance_291702" />
+    <annotator id="cell_Instance_200000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22311" end="22324" />
+    <spannedText>cells in vivo</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cell_Instance_291704" />
+    <annotator id="cell_Instance_200000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24969" end="24979" />
+    <spannedText>stem cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cell_Instance_291706" />
+    <annotator id="cell_Instance_200000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29462" end="29467" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cell_Instance_500775" />
+    <annotator id="cell_Instance_200000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22158" end="22173" />
+    <spannedText>apoptotic cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cell_Instance_500780" />
+    <annotator id="cell_Instance_200000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22301" end="22316" />
+    <spannedText>apoptotic cells</spannedText>
+  </annotation>
+  <classMention id="cell_Instance_291694">
+    <mentionClass id="CL:0000034">stem cell (,)</mentionClass>
+  </classMention>
+  <classMention id="cell_Instance_291692">
+    <mentionClass id="CL:0000000">cell (,)</mentionClass>
+  </classMention>
+  <classMention id="cell_Instance_500775">
+    <mentionClass id="CL:0000445">apoptosis fated cell (,)</mentionClass>
+  </classMention>
+  <classMention id="cell_Instance_500780">
+    <mentionClass id="CL:0000445">apoptosis fated cell (,)</mentionClass>
+  </classMention>
+  <classMention id="cell_Instance_291706">
+    <mentionClass id="CL:0000000">cell (,)</mentionClass>
+  </classMention>
+  <classMention id="cell_Instance_291704">
+    <mentionClass id="CL:0000034">stem cell (,)</mentionClass>
+  </classMention>
+  <classMention id="cell_Instance_291702">
+    <mentionClass id="CL:0000003">cell in vivo (,)</mentionClass>
+  </classMention>
+  <classMention id="cell_Instance_291698">
+    <mentionClass id="CL:0000034">stem cell (,)</mentionClass>
+  </classMention>
+  <classMention id="cell_Instance_291696">
+    <mentionClass id="CL:0000034">stem cell (,)</mentionClass>
+  </classMention>
+</annotations>
+

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="17244351.txt">
+  <annotation>
+    <mention id="chebi_Instance_1010195" />
+    <annotator id="chebi_Instance_90000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4503" end="4512" />
+    <spannedText>molecules</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="chebi_Instance_1010198" />
+    <annotator id="chebi_Instance_90000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23596" end="23604" />
+    <spannedText>molecule</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="chebi_Instance_1010217" />
+    <annotator id="chebi_Instance_90000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12646" end="12658" />
+    <spannedText>proteoglycan</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="chebi_Instance_1010220" />
+    <annotator id="chebi_Instance_90000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23418" end="23428" />
+    <spannedText>inhibitors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="chebi_Instance_980145" />
+    <annotator id="chebi_Instance_90000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3398" end="3405" />
+    <spannedText>protein</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="chebi_Instance_980148" />
+    <annotator id="chebi_Instance_90000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3440" end="3447" />
+    <spannedText>protein</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="chebi_Instance_980151" />
+    <annotator id="chebi_Instance_90000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3469" end="3476" />
+    <spannedText>protein</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="chebi_Instance_980154" />
+    <annotator id="chebi_Instance_90000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16852" end="16859" />
+    <spannedText>protein</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="chebi_Instance_980157" />
+    <annotator id="chebi_Instance_90000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18896" end="18903" />
+    <spannedText>protein</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="chebi_Instance_980160" />
+    <annotator id="chebi_Instance_90000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23265" end="23272" />
+    <spannedText>protein</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="chebi_Instance_980163" />
+    <annotator id="chebi_Instance_90000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25865" end="25872" />
+    <spannedText>protein</spannedText>
+  </annotation>
+  <classMention id="chebi_Instance_980151">
+    <mentionClass id="CHEBI:36080">proteins</mentionClass>
+  </classMention>
+  <classMention id="chebi_Instance_980154">
+    <mentionClass id="CHEBI:36080">proteins</mentionClass>
+  </classMention>
+  <classMention id="chebi_Instance_980145">
+    <mentionClass id="CHEBI:36080">proteins</mentionClass>
+  </classMention>
+  <classMention id="chebi_Instance_980148">
+    <mentionClass id="CHEBI:36080">proteins</mentionClass>
+  </classMention>
+  <classMention id="chebi_Instance_1010195">
+    <mentionClass id="CHEBI:23367">molecular entities</mentionClass>
+  </classMention>
+  <classMention id="chebi_Instance_980160">
+    <mentionClass id="CHEBI:36080">proteins</mentionClass>
+  </classMention>
+  <classMention id="chebi_Instance_1010198">
+    <mentionClass id="CHEBI:23367">molecular entities</mentionClass>
+  </classMention>
+  <classMention id="chebi_Instance_980157">
+    <mentionClass id="CHEBI:36080">proteins</mentionClass>
+  </classMention>
+  <classMention id="chebi_Instance_1010217">
+    <mentionClass id="CHEBI:37396">proteoglycans</mentionClass>
+  </classMention>
+  <classMention id="chebi_Instance_1010220">
+    <mentionClass id="CHEBI:35222">inhibitor</mentionClass>
+  </classMention>
+  <classMention id="chebi_Instance_980163">
+    <mentionClass id="CHEBI:36080">proteins</mentionClass>
+  </classMention>
+</annotations>
+

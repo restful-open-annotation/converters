@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="15588329.txt">
+  <annotation>
+    <mention id="organism_Instance_140001" />
+    <annotator id="organism_Instance_240000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="36522" end="36527" />
+    <spannedText>virus</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="organism_Instance_170457" />
+    <annotator id="organism_Instance_240000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4551" end="4561" />
+    <spannedText>retroviral</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="organism_Instance_170479" />
+    <annotator id="organism_Instance_240000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="28259" end="28269" />
+    <spannedText>retrovirus</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="organism_Instance_32282" />
+    <annotator id="organism_Instance_240000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="478" end="482" />
+    <spannedText>mice</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="organism_Instance_32286" />
+    <annotator id="organism_Instance_240000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="690" end="695" />
+    <spannedText>mouse</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="organism_Instance_32290" />
+    <annotator id="organism_Instance_240000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2936" end="2941" />
+    <spannedText>yeast</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="organism_Instance_32294" />
+    <annotator id="organism_Instance_240000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3148" end="3153" />
+    <spannedText>mouse</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="organism_Instance_32298" />
+    <annotator id="organism_Instance_240000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3181" end="3185" />
+    <spannedText>mice</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="organism_Instance_32302" />
+    <annotator id="organism_Instance_240000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3375" end="3379" />
+    <spannedText>mice</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="organism_Instance_32306" />
+    <annotator id="organism_Instance_240000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3944" end="3948" />
+    <spannedText>mice</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="organism_Instance_32310" />
+    <annotator id="organism_Instance_240000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4446" end="4450" />
+    <spannedText>mice</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="organism_Instance_32314" />
+    <annotator id="organism_Instance_240000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4630" end="4634" />
+    <spannedText>SV40</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="organism_Instance_32318" />
+    <annotator id="organism_Instance_240000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4993" end="4997" />
+    <spannedText>SV40</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="organism_Instance_32322" />
+    <annotator id="organism_Instance_240000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6356" end="6360" />
+    <spannedText>mice</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="organism_Instance_32326" />
+    <annotator id="organism_Instance_240000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11970" end="11974" />
+    <spannedText>mice</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="organism_Instance_32330" />
+    <annotator id="organism_Instance_240000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12301" end="12305" />
+    <spannedText>mice</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="organism_Instance_32334" />
+    <annotator id="organism_Instance_240000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13501" end="13505" />
+    <spannedText>mice</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="organism_Instance_32338" />
+    <annotator id="organism_Instance_240000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22674" end="22678" />
+    <spannedText>mice</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="organism_Instance_32342" />
+    <annotator id="organism_Instance_240000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24102" end="24108" />
+    <spannedText>animal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="organism_Instance_32346" />
+    <annotator id="organism_Instance_240000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25902" end="25905" />
+    <spannedText>Rat</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="organism_Instance_32350" />
+    <annotator id="organism_Instance_240000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26424" end="26428" />
+    <spannedText>SV40</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="organism_Instance_32354" />
+    <annotator id="organism_Instance_240000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27326" end="27330" />
+    <spannedText>mice</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="organism_Instance_32358" />
+    <annotator id="organism_Instance_240000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="28142" end="28148" />
+    <spannedText>bovine</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="organism_Instance_32362" />
+    <annotator id="organism_Instance_240000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31536" end="31542" />
+    <spannedText>bovine</spannedText>
+  </annotation>
+  <classMention id="organism_Instance_32350">
+    <mentionClass id="organism">organism</mentionClass>
+    <hasSlotMention id="organism_Instance_32351" />
+    <hasSlotMention id="organism_Instance_32352" />
+    <hasSlotMention id="organism_Instance_170476" />
+  </classMention>
+  <stringSlotMention id="organism_Instance_32351">
+    <mentionSlot id="common name" />
+    <stringSlotMentionValue value="[rhesus polyomavirus, Simian virus 40, SV40, Polyomavirus maccacae, Polyomavirus maccacae 1, Rhesus macaque polyomavirus]" />
+  </stringSlotMention>
+  <integerSlotMention id="organism_Instance_32352">
+    <mentionSlot id="taxonomy ID" />
+    <integerSlotMentionValue value="10633" />
+  </integerSlotMention>
+  <booleanSlotMention id="organism_Instance_170476">
+    <mentionSlot id="taxon ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="organism_Instance_32346">
+    <mentionClass id="organism">organism</mentionClass>
+    <hasSlotMention id="organism_Instance_32347" />
+    <hasSlotMention id="organism_Instance_32348" />
+    <hasSlotMention id="organism_Instance_170475" />
+  </classMention>
+  <stringSlotMention id="organism_Instance_32347">
+    <mentionSlot id="common name" />
+    <stringSlotMentionValue value="[Rattus, rat, rats]" />
+  </stringSlotMention>
+  <integerSlotMention id="organism_Instance_32348">
+    <mentionSlot id="taxonomy ID" />
+    <integerSlotMentionValue value="10114" />
+  </integerSlotMention>
+  <booleanSlotMention id="organism_Instance_170475">
+    <mentionSlot id="taxon ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="organism_Instance_32358">
+    <mentionClass id="organism">organism</mentionClass>
+    <hasSlotMention id="organism_Instance_32359" />
+    <hasSlotMention id="organism_Instance_32360" />
+    <hasSlotMention id="organism_Instance_170478" />
+  </classMention>
+  <stringSlotMention id="organism_Instance_32359">
+    <mentionSlot id="common name" />
+    <stringSlotMentionValue value="[B. taurus, Bos primigenius taurus, Bos bovis, domestic cow, cattle, Bos Tauurus, Bos taurus, Bos Tauuru, Bos bovi, domestic cattle, cow, Bos primigenius tauru, bovine]" />
+  </stringSlotMention>
+  <integerSlotMention id="organism_Instance_32360">
+    <mentionSlot id="taxonomy ID" />
+    <integerSlotMentionValue value="27592" />
+  </integerSlotMention>
+  <booleanSlotMention id="organism_Instance_170478">
+    <mentionSlot id="taxon ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="organism_Instance_32354">
+    <mentionClass id="organism">organism</mentionClass>
+    <hasSlotMention id="organism_Instance_32355" />
+    <hasSlotMention id="organism_Instance_32356" />
+    <hasSlotMention id="organism_Instance_170477" />
+  </classMention>
+  <stringSlotMention id="organism_Instance_32355">
+    <mentionSlot id="common name" />
+    <stringSlotMentionValue value="[murine, mouse, mice, Nannomy, Mus, Nannomys]" />
+  </stringSlotMention>
+  <integerSlotMention id="organism_Instance_32356">
+    <mentionSlot id="taxonomy ID" />
+    <integerSlotMentionValue value="10088" />
+  </integerSlotMention>
+  <booleanSlotMention id="organism_Instance_170477">
+    <mentionSlot id="taxon ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="organism_Instance_32334">
+    <mentionClass id="organism">organism</mentionClass>
+    <hasSlotMention id="organism_Instance_32335" />
+    <hasSlotMention id="organism_Instance_32336" />
+    <hasSlotMention id="organism_Instance_170472" />
+  </classMention>
+  <stringSlotMention id="organism_Instance_32335">
+    <mentionSlot id="common name" />
+    <stringSlotMentionValue value="[murine, mouse, mice, Nannomy, Mus, Nannomys]" />
+  </stringSlotMention>
+  <integerSlotMention id="organism_Instance_32336">
+    <mentionSlot id="taxonomy ID" />
+    <integerSlotMentionValue value="10088" />
+  </integerSlotMention>
+  <booleanSlotMention id="organism_Instance_170472">
+    <mentionSlot id="taxon ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="organism_Instance_32330">
+    <mentionClass id="organism">organism</mentionClass>
+    <hasSlotMention id="organism_Instance_32331" />
+    <hasSlotMention id="organism_Instance_32332" />
+    <hasSlotMention id="organism_Instance_170471" />
+  </classMention>
+  <stringSlotMention id="organism_Instance_32331">
+    <mentionSlot id="common name" />
+    <stringSlotMentionValue value="[murine, mouse, mice, Nannomy, Mus, Nannomys]" />
+  </stringSlotMention>
+  <integerSlotMention id="organism_Instance_32332">
+    <mentionSlot id="taxonomy ID" />
+    <integerSlotMentionValue value="10088" />
+  </integerSlotMention>
+  <booleanSlotMention id="organism_Instance_170471">
+    <mentionSlot id="taxon ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="organism_Instance_32290">
+    <mentionClass id="organism">organism</mentionClass>
+    <hasSlotMention id="organism_Instance_32291" />
+    <hasSlotMention id="organism_Instance_32292" />
+    <hasSlotMention id="organism_Instance_180322" />
+  </classMention>
+  <stringSlotMention id="organism_Instance_32291">
+    <mentionSlot id="common name" />
+    <stringSlotMentionValue value="[Sccharomyces cerevisiae, Saccharomyces cerevisiae, Saccharomyces italicus, Saccharomyces capensis, brewer's yeast, Saccharomyces italicu, Saccharomyces oviformis, Saccharomyces oviformi, Saccharomyces uvarum var. melibiosus, Saccharomyces uvarum var. melibiosu, Candida robusta, baker's yeast, Saccharomyes cerevisiae, yeast, Saccaromyces cerevisiae, Saccharomyces capensi, lager beer yeast, S. cerevisiae]" />
+  </stringSlotMention>
+  <integerSlotMention id="organism_Instance_32292">
+    <mentionSlot id="taxonomy ID" />
+    <integerSlotMentionValue value="4892" />
+  </integerSlotMention>
+  <booleanSlotMention id="organism_Instance_180322">
+    <mentionSlot id="taxon ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="organism_Instance_32342">
+    <mentionClass id="organism">organism</mentionClass>
+    <hasSlotMention id="organism_Instance_32343" />
+    <hasSlotMention id="organism_Instance_32344" />
+    <hasSlotMention id="organism_Instance_170474" />
+  </classMention>
+  <stringSlotMention id="organism_Instance_32343">
+    <mentionSlot id="common name" />
+    <stringSlotMentionValue value="[animal, multicellular animals, animals, Metazoan, multicellular animal, metazoans, metazoan, Metazoa, Animalia]" />
+  </stringSlotMention>
+  <integerSlotMention id="organism_Instance_32344">
+    <mentionSlot id="taxonomy ID" />
+    <integerSlotMentionValue value="33208" />
+  </integerSlotMention>
+  <booleanSlotMention id="organism_Instance_170474">
+    <mentionSlot id="taxon ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="organism_Instance_32338">
+    <mentionClass id="organism">organism</mentionClass>
+    <hasSlotMention id="organism_Instance_32339" />
+    <hasSlotMention id="organism_Instance_32340" />
+    <hasSlotMention id="organism_Instance_170473" />
+  </classMention>
+  <stringSlotMention id="organism_Instance_32339">
+    <mentionSlot id="common name" />
+    <stringSlotMentionValue value="[murine, mouse, mice, Nannomy, Mus, Nannomys]" />
+  </stringSlotMention>
+  <integerSlotMention id="organism_Instance_32340">
+    <mentionSlot id="taxonomy ID" />
+    <integerSlotMentionValue value="10088" />
+  </integerSlotMention>
+  <booleanSlotMention id="organism_Instance_170473">
+    <mentionSlot id="taxon ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="organism_Instance_32282">
+    <mentionClass id="organism">organism</mentionClass>
+    <hasSlotMention id="organism_Instance_32283" />
+    <hasSlotMention id="organism_Instance_32284" />
+    <hasSlotMention id="organism_Instance_170449" />
+  </classMention>
+  <stringSlotMention id="organism_Instance_32283">
+    <mentionSlot id="common name" />
+    <stringSlotMentionValue value="[murine, mouse, mice, Nannomy, Mus, Nannomys]" />
+  </stringSlotMention>
+  <integerSlotMention id="organism_Instance_32284">
+    <mentionSlot id="taxonomy ID" />
+    <integerSlotMentionValue value="10088" />
+  </integerSlotMention>
+  <booleanSlotMention id="organism_Instance_170449">
+    <mentionSlot id="taxon ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="organism_Instance_32318">
+    <mentionClass id="organism">organism</mentionClass>
+    <hasSlotMention id="organism_Instance_32319" />
+    <hasSlotMention id="organism_Instance_32320" />
+    <hasSlotMention id="organism_Instance_170468" />
+  </classMention>
+  <stringSlotMention id="organism_Instance_32319">
+    <mentionSlot id="common name" />
+    <stringSlotMentionValue value="[rhesus polyomavirus, Simian virus 40, SV40, Polyomavirus maccacae, Polyomavirus maccacae 1, Rhesus macaque polyomavirus]" />
+  </stringSlotMention>
+  <integerSlotMention id="organism_Instance_32320">
+    <mentionSlot id="taxonomy ID" />
+    <integerSlotMentionValue value="10633" />
+  </integerSlotMention>
+  <booleanSlotMention id="organism_Instance_170468">
+    <mentionSlot id="taxon ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="organism_Instance_140001">
+    <mentionClass id="organism">organism</mentionClass>
+    <hasSlotMention id="organism_Instance_150003" />
+    <hasSlotMention id="organism_Instance_150004" />
+  </classMention>
+  <booleanSlotMention id="organism_Instance_150003">
+    <mentionSlot id="taxon ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <integerSlotMention id="organism_Instance_150004">
+    <mentionSlot id="taxonomy ID" />
+    <integerSlotMentionValue value="10239" />
+  </integerSlotMention>
+  <classMention id="organism_Instance_32314">
+    <mentionClass id="organism">organism</mentionClass>
+    <hasSlotMention id="organism_Instance_32315" />
+    <hasSlotMention id="organism_Instance_32316" />
+    <hasSlotMention id="organism_Instance_170467" />
+  </classMention>
+  <stringSlotMention id="organism_Instance_32315">
+    <mentionSlot id="common name" />
+    <stringSlotMentionValue value="[rhesus polyomavirus, Simian virus 40, SV40, Polyomavirus maccacae, Polyomavirus maccacae 1, Rhesus macaque polyomavirus]" />
+  </stringSlotMention>
+  <integerSlotMention id="organism_Instance_32316">
+    <mentionSlot id="taxonomy ID" />
+    <integerSlotMentionValue value="10633" />
+  </integerSlotMention>
+  <booleanSlotMention id="organism_Instance_170467">
+    <mentionSlot id="taxon ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="organism_Instance_32326">
+    <mentionClass id="organism">organism</mentionClass>
+    <hasSlotMention id="organism_Instance_32327" />
+    <hasSlotMention id="organism_Instance_32328" />
+    <hasSlotMention id="organism_Instance_170470" />
+  </classMention>
+  <stringSlotMention id="organism_Instance_32327">
+    <mentionSlot id="common name" />
+    <stringSlotMentionValue value="[murine, mouse, mice, Nannomy, Mus, Nannomys]" />
+  </stringSlotMention>
+  <integerSlotMention id="organism_Instance_32328">
+    <mentionSlot id="taxonomy ID" />
+    <integerSlotMentionValue value="10088" />
+  </integerSlotMention>
+  <booleanSlotMention id="organism_Instance_170470">
+    <mentionSlot id="taxon ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="organism_Instance_32322">
+    <mentionClass id="organism">organism</mentionClass>
+    <hasSlotMention id="organism_Instance_32323" />
+    <hasSlotMention id="organism_Instance_32324" />
+    <hasSlotMention id="organism_Instance_170469" />
+  </classMention>
+  <stringSlotMention id="organism_Instance_32323">
+    <mentionSlot id="common name" />
+    <stringSlotMentionValue value="[murine, mouse, mice, Nannomy, Mus, Nannomys]" />
+  </stringSlotMention>
+  <integerSlotMention id="organism_Instance_32324">
+    <mentionSlot id="taxonomy ID" />
+    <integerSlotMentionValue value="10088" />
+  </integerSlotMention>
+  <booleanSlotMention id="organism_Instance_170469">
+    <mentionSlot id="taxon ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="organism_Instance_170479">
+    <mentionClass id="organism">organism</mentionClass>
+    <hasSlotMention id="organism_Instance_170481" />
+    <hasSlotMention id="organism_Instance_170483" />
+  </classMention>
+  <integerSlotMention id="organism_Instance_170481">
+    <mentionSlot id="taxonomy ID" />
+    <integerSlotMentionValue value="11632" />
+  </integerSlotMention>
+  <booleanSlotMention id="organism_Instance_170483">
+    <mentionSlot id="taxon ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="organism_Instance_32302">
+    <mentionClass id="organism">organism</mentionClass>
+    <hasSlotMention id="organism_Instance_32303" />
+    <hasSlotMention id="organism_Instance_32304" />
+    <hasSlotMention id="organism_Instance_170454" />
+  </classMention>
+  <stringSlotMention id="organism_Instance_32303">
+    <mentionSlot id="common name" />
+    <stringSlotMentionValue value="[murine, mouse, mice, Nannomy, Mus, Nannomys]" />
+  </stringSlotMention>
+  <integerSlotMention id="organism_Instance_32304">
+    <mentionSlot id="taxonomy ID" />
+    <integerSlotMentionValue value="10088" />
+  </integerSlotMention>
+  <booleanSlotMention id="organism_Instance_170454">
+    <mentionSlot id="taxon ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="organism_Instance_32310">
+    <mentionClass id="organism">organism</mentionClass>
+    <hasSlotMention id="organism_Instance_32311" />
+    <hasSlotMention id="organism_Instance_32312" />
+    <hasSlotMention id="organism_Instance_170456" />
+  </classMention>
+  <stringSlotMention id="organism_Instance_32311">
+    <mentionSlot id="common name" />
+    <stringSlotMentionValue value="[murine, mouse, mice, Nannomy, Mus, Nannomys]" />
+  </stringSlotMention>
+  <integerSlotMention id="organism_Instance_32312">
+    <mentionSlot id="taxonomy ID" />
+    <integerSlotMentionValue value="10088" />
+  </integerSlotMention>
+  <booleanSlotMention id="organism_Instance_170456">
+    <mentionSlot id="taxon ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="organism_Instance_32362">
+    <mentionClass id="organism">organism</mentionClass>
+    <hasSlotMention id="organism_Instance_32363" />
+    <hasSlotMention id="organism_Instance_32364" />
+    <hasSlotMention id="organism_Instance_130000" />
+  </classMention>
+  <stringSlotMention id="organism_Instance_32363">
+    <mentionSlot id="common name" />
+    <stringSlotMentionValue value="[B. taurus, Bos primigenius taurus, Bos bovis, domestic cow, cattle, Bos Tauurus, Bos taurus, Bos Tauuru, Bos bovi, domestic cattle, cow, Bos primigenius tauru, bovine]" />
+  </stringSlotMention>
+  <integerSlotMention id="organism_Instance_32364">
+    <mentionSlot id="taxonomy ID" />
+    <integerSlotMentionValue value="27592" />
+  </integerSlotMention>
+  <booleanSlotMention id="organism_Instance_130000">
+    <mentionSlot id="taxon ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="organism_Instance_32298">
+    <mentionClass id="organism">organism</mentionClass>
+    <hasSlotMention id="organism_Instance_32299" />
+    <hasSlotMention id="organism_Instance_32300" />
+    <hasSlotMention id="organism_Instance_170453" />
+  </classMention>
+  <stringSlotMention id="organism_Instance_32299">
+    <mentionSlot id="common name" />
+    <stringSlotMentionValue value="[murine, mouse, mice, Nannomy, Mus, Nannomys]" />
+  </stringSlotMention>
+  <integerSlotMention id="organism_Instance_32300">
+    <mentionSlot id="taxonomy ID" />
+    <integerSlotMentionValue value="10088" />
+  </integerSlotMention>
+  <booleanSlotMention id="organism_Instance_170453">
+    <mentionSlot id="taxon ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="organism_Instance_32306">
+    <mentionClass id="organism">organism</mentionClass>
+    <hasSlotMention id="organism_Instance_32307" />
+    <hasSlotMention id="organism_Instance_32308" />
+    <hasSlotMention id="organism_Instance_170455" />
+  </classMention>
+  <stringSlotMention id="organism_Instance_32307">
+    <mentionSlot id="common name" />
+    <stringSlotMentionValue value="[murine, mouse, mice, Nannomy, Mus, Nannomys]" />
+  </stringSlotMention>
+  <integerSlotMention id="organism_Instance_32308">
+    <mentionSlot id="taxonomy ID" />
+    <integerSlotMentionValue value="10088" />
+  </integerSlotMention>
+  <booleanSlotMention id="organism_Instance_170455">
+    <mentionSlot id="taxon ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="organism_Instance_32294">
+    <mentionClass id="organism">organism</mentionClass>
+    <hasSlotMention id="organism_Instance_32295" />
+    <hasSlotMention id="organism_Instance_32296" />
+    <hasSlotMention id="organism_Instance_170452" />
+  </classMention>
+  <stringSlotMention id="organism_Instance_32295">
+    <mentionSlot id="common name" />
+    <stringSlotMentionValue value="[murine, mouse, mice, Nannomy, Mus, Nannomys]" />
+  </stringSlotMention>
+  <integerSlotMention id="organism_Instance_32296">
+    <mentionSlot id="taxonomy ID" />
+    <integerSlotMentionValue value="10088" />
+  </integerSlotMention>
+  <booleanSlotMention id="organism_Instance_170452">
+    <mentionSlot id="taxon ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="organism_Instance_170457">
+    <mentionClass id="organism">organism</mentionClass>
+    <hasSlotMention id="organism_Instance_170459" />
+    <hasSlotMention id="organism_Instance_170461" />
+  </classMention>
+  <integerSlotMention id="organism_Instance_170459">
+    <mentionSlot id="taxonomy ID" />
+    <integerSlotMentionValue value="11632" />
+  </integerSlotMention>
+  <booleanSlotMention id="organism_Instance_170461">
+    <mentionSlot id="taxon ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="organism_Instance_32286">
+    <mentionClass id="organism">organism</mentionClass>
+    <hasSlotMention id="organism_Instance_32287" />
+    <hasSlotMention id="organism_Instance_32288" />
+    <hasSlotMention id="organism_Instance_170450" />
+  </classMention>
+  <stringSlotMention id="organism_Instance_32287">
+    <mentionSlot id="common name" />
+    <stringSlotMentionValue value="[murine, mouse, mice, Nannomy, Mus, Nannomys]" />
+  </stringSlotMention>
+  <integerSlotMention id="organism_Instance_32288">
+    <mentionSlot id="taxonomy ID" />
+    <integerSlotMentionValue value="10088" />
+  </integerSlotMention>
+  <booleanSlotMention id="organism_Instance_170450">
+    <mentionSlot id="taxon ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+</annotations>
+

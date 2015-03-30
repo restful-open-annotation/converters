@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="12546709.txt">
+  <annotation>
+    <mention id="SO_Instance_1260226" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4737" end="4740" />
+    <spannedText>DNA</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_1260228" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14764" end="14767" />
+    <spannedText>DNA</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_1260230" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15300" end="15303" />
+    <spannedText>DNA</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_1260232" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31003" end="31006" />
+    <spannedText>DNA</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_1262119" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1157" end="1169" />
+    <spannedText>nucleic acid</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_1262121" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9132" end="9145" />
+    <spannedText>nucleic acids</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_1262123" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12942" end="12954" />
+    <spannedText>nucleic acid</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_1262125" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13461" end="13473" />
+    <spannedText>nucleic acid</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_1262127" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13576" end="13588" />
+    <spannedText>nucleic acid</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_1262129" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14315" end="14327" />
+    <spannedText>nucleic acid</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_1262131" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17088" end="17100" />
+    <spannedText>nucleic acid</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_1262133" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17507" end="17519" />
+    <spannedText>nucleic acid</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_1262135" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19111" end="19123" />
+    <spannedText>nucleic acid</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_1262137" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23622" end="23635" />
+    <spannedText>nucleic acids</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_1262139" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26805" end="26817" />
+    <spannedText>nucleic acid</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_1262141" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27118" end="27130" />
+    <spannedText>nucleic acid</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_1262143" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27208" end="27220" />
+    <spannedText>nucleic acid</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_1262145" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27651" end="27663" />
+    <spannedText>nucleic acid</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_1262147" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27839" end="27851" />
+    <spannedText>nucleic acid</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_1262149" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31847" end="31859" />
+    <spannedText>nucleic acid</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_1266505" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1814" end="1822" />
+    <spannedText>homology</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_1266507" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3183" end="3191" />
+    <spannedText>homology</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_1267232" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1794" end="1813" />
+    <spannedText>amino acid sequence</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_1267868" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1447" end="1451" />
+    <spannedText>wild</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_1267870" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23854" end="23858" />
+    <spannedText>wild</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_20129" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31347" end="31354" />
+    <spannedText>genomic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_30015" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5079" end="5086" />
+    <spannedText>genomic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_40031" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13269" end="13278" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_40033" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13269" end="13278" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_40035" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18928" end="18937" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_40037" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18928" end="18937" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_40039" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31475" end="31484" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_Instance_40041" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31475" end="31484" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12327" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="265" end="269" />
+    <spannedText>gene</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12333" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="714" end="719" />
+    <spannedText>genes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12335" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1013" end="1022" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12343" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1705" end="1717" />
+    <spannedText>polypeptides</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12345" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1794" end="1804" />
+    <spannedText>amino acid</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12363" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3174" end="3182" />
+    <spannedText>sequence</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12379" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4523" end="4527" />
+    <spannedText>mRNA</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12387" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5569" end="5573" />
+    <spannedText>gene</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12389" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5680" end="5684" />
+    <spannedText>gene</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12395" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5951" end="5960" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12397" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6158" end="6162" />
+    <spannedText>gene</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12399" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6214" end="6223" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12405" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6896" end="6901" />
+    <spannedText>genes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12407" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6932" end="6941" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12409" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7228" end="7237" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12411" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7527" end="7531" />
+    <spannedText>gene</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12423" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10897" end="10906" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12425" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11076" end="11085" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12427" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11112" end="11121" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12429" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11228" end="11237" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12435" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11625" end="11634" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12437" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11836" end="11845" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12447" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12512" end="12521" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12453" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12994" end="13003" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12479" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14219" end="14228" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12483" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14551" end="14560" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12487" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14885" end="14894" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12489" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15087" end="15096" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12493" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15405" end="15414" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12495" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15444" end="15453" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12513" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16057" end="16066" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12515" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16163" end="16172" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12517" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16450" end="16459" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12519" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16716" end="16725" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12531" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17638" end="17647" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12535" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17898" end="17907" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12537" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17950" end="17959" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12543" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18401" end="18410" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12545" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18719" end="18728" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12551" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19783" end="19792" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12553" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19971" end="19980" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12557" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20405" end="20414" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12563" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21005" end="21014" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12571" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21695" end="21704" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12575" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21922" end="21931" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12583" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22099" end="22108" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12585" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22156" end="22165" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12595" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22455" end="22459" />
+    <spannedText>gene</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12597" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22566" end="22570" />
+    <spannedText>gene</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12603" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22831" end="22840" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12607" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22968" end="22972" />
+    <spannedText>gene</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12609" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23034" end="23043" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12623" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24042" end="24046" />
+    <spannedText>gene</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12659" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="28216" end="28225" />
+    <spannedText>wild type</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12671" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30291" end="30295" />
+    <spannedText>mRNA</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12673" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30354" end="30358" />
+    <spannedText>mRNA</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="SO_new_Instance_12699" />
+    <annotator id="SO_Instance_260000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="32676" end="32680" />
+    <spannedText>mRNA</spannedText>
+  </annotation>
+  <classMention id="SO_new_Instance_12699">
+    <mentionClass id="SO:0000234">mRNA</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_1262135">
+    <mentionClass id="SO:0000348">nucleic_acid</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12673">
+    <mentionClass id="SO:0000234">mRNA</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_1262137">
+    <mentionClass id="SO:0000348">nucleic_acid</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12671">
+    <mentionClass id="SO:0000234">mRNA</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_1262139">
+    <mentionClass id="SO:0000348">nucleic_acid</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12659">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_1262141">
+    <mentionClass id="SO:0000348">nucleic_acid</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12623">
+    <mentionClass id="SO:0000704">gene</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_1262143">
+    <mentionClass id="SO:0000348">nucleic_acid</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12609">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_1262145">
+    <mentionClass id="SO:0000348">nucleic_acid</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12607">
+    <mentionClass id="SO:0000704">gene</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_1262147">
+    <mentionClass id="SO:0000348">nucleic_acid</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12603">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_1262149">
+    <mentionClass id="SO:0000348">nucleic_acid</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_40039">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12327">
+    <mentionClass id="SO:0000704">gene</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_1266507">
+    <mentionClass id="SO:0000857">homologous</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_1266505">
+    <mentionClass id="SO:0000857">homologous</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12551">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12553">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_40031">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12543">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12545">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12535">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_40033">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12537">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12519">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_40035">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12531">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_20129">
+    <mentionClass id="SO:0001026">genome</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12595">
+    <mentionClass id="SO:0000704">gene</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12597">
+    <mentionClass id="SO:0000704">gene</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12583">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12585">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12571">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12575">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_40037">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12557">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12563">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12447">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_1262127">
+    <mentionClass id="SO:0000348">nucleic_acid</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12437">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_1262129">
+    <mentionClass id="SO:0000348">nucleic_acid</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12479">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_1262131">
+    <mentionClass id="SO:0000348">nucleic_acid</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12453">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_1262133">
+    <mentionClass id="SO:0000348">nucleic_acid</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12427">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_1262119">
+    <mentionClass id="SO:0000348">nucleic_acid</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12425">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_1262121">
+    <mentionClass id="SO:0000348">nucleic_acid</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_30015">
+    <mentionClass id="SO:0001026">genome</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12435">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_1262123">
+    <mentionClass id="SO:0000348">nucleic_acid</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_1267232">
+    <mentionClass id="SO:0001407">peptidyl</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12429">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_1262125">
+    <mentionClass id="SO:0000348">nucleic_acid</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12513">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12495">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12517">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12515">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12487">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12483">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12493">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12489">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_1267868">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12363">
+    <mentionClass id="SO:0000001">region</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_1267870">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12379">
+    <mentionClass id="SO:0000234">mRNA</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12387">
+    <mentionClass id="SO:0000704">gene</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12389">
+    <mentionClass id="SO:0000704">gene</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12333">
+    <mentionClass id="SO:0000704">gene</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_40041">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12335">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12343">
+    <mentionClass id="SO:0000104">polypeptide</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12345">
+    <mentionClass id="SO:0001237">amino_acid</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12407">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12409">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12411">
+    <mentionClass id="SO:0000704">gene</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12423">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12395">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_1260230">
+    <mentionClass id="SO:0000352">DNA</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12397">
+    <mentionClass id="SO:0000704">gene</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_1260232">
+    <mentionClass id="SO:0000352">DNA</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12399">
+    <mentionClass id="SO:0000817">wild_type</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_1260226">
+    <mentionClass id="SO:0000352">DNA</mentionClass>
+  </classMention>
+  <classMention id="SO_new_Instance_12405">
+    <mentionClass id="SO:0000704">gene</mentionClass>
+  </classMention>
+  <classMention id="SO_Instance_1260228">
+    <mentionClass id="SO:0000352">DNA</mentionClass>
+  </classMention>
+</annotations>
+

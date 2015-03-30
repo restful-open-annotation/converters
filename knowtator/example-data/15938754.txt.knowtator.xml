@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="15938754.txt">
+  <annotation>
+    <mention id="EG_sequence_names+database_IDs_Instance_9" />
+    <annotator id="EG_sequence_names_Instance_20000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10042" end="10050" />
+    <spannedText>D6Mit374</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="EG_sequence_names+database_IDs_Instance_12" />
+    <annotator id="EG_sequence_names_Instance_20000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10546" end="10554" />
+    <spannedText>D6Mit374</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="EG_sequence_names+database_IDs_Instance_15" />
+    <annotator id="EG_sequence_names_Instance_20000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10620" end="10628" />
+    <spannedText>D6Mit374</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="EG_sequence_names+database_IDs_Instance_18" />
+    <annotator id="EG_sequence_names_Instance_20000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10735" end="10743" />
+    <spannedText>D6Mit374</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="EG_sequence_names+database_IDs_Instance_21" />
+    <annotator id="EG_sequence_names_Instance_20000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11919" end="11928" />
+    <spannedText>D6Mit 374</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="EG_sequence_names+database_IDs_Instance_24" />
+    <annotator id="EG_sequence_names_Instance_20000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30452" end="30460" />
+    <spannedText>D6Mit150</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="EG_sequence_names+database_IDs_Instance_6" />
+    <annotator id="EG_sequence_names_Instance_20000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9854" end="9862" />
+    <spannedText>D6Mit374</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="Entrez_Gene_Instance_44925" />
+    <annotator id="EG_sequence_names_Instance_20000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29735" end="29743" />
+    <spannedText>Tas2r120</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="Entrez_Gene_Instance_31467" />
+    <annotator id="EG_sequence_names_Instance_20000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18417" end="18420" />
+    <spannedText>Qui</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="Entrez_Gene_Instance_31928" />
+    <annotator id="EG_sequence_names_Instance_20000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21212" end="21218" />
+    <spannedText>Tas1r3</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="Entrez_Gene_Instance_31931" />
+    <annotator id="EG_sequence_names_Instance_20000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18936" end="18940" />
+    <spannedText>Prp2</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="Entrez_Gene_Instance_31962" />
+    <annotator id="EG_sequence_names_Instance_20000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16145" end="16153" />
+    <spannedText>Tas2r120</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="Entrez_Gene_Instance_31935" />
+    <annotator id="EG_sequence_names_Instance_20000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18945" end="18949" />
+    <spannedText>Prh1</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="Entrez_Gene_Instance_31956" />
+    <annotator id="EG_sequence_names_Instance_20000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14277" end="14285" />
+    <spannedText>Tas2r117</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="Entrez_Gene_Instance_31947" />
+    <annotator id="EG_sequence_names_Instance_20000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15067" end="15075" />
+    <spannedText>Tas2r105</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="Entrez_Gene_Instance_31949" />
+    <annotator id="EG_sequence_names_Instance_20000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15077" end="15085" />
+    <spannedText>Tas2r116</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="Entrez_Gene_Instance_31952" />
+    <annotator id="EG_sequence_names_Instance_20000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14067" end="14075" />
+    <spannedText>Tas2r120</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="Entrez_Gene_Instance_31954" />
+    <annotator id="EG_sequence_names_Instance_20000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14264" end="14272" />
+    <spannedText>Tas2r103</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="Entrez_Gene_Instance_31957" />
+    <annotator id="EG_sequence_names_Instance_20000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16052" end="16060" />
+    <spannedText>Tas2r114</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="Entrez_Gene_Instance_31960" />
+    <annotator id="EG_sequence_names_Instance_20000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16065" end="16073" />
+    <spannedText>Tas2r110</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="Entrez_Gene_Instance_31963" />
+    <annotator id="EG_sequence_names_Instance_20000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15090" end="15098" />
+    <spannedText>Tas2r131</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="Entrez_Gene_Instance_31965" />
+    <annotator id="EG_sequence_names_Instance_20000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15148" end="15156" />
+    <spannedText>Tas2r120</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="Entrez_Gene_Instance_31967" />
+    <annotator id="EG_sequence_names_Instance_20000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16042" end="16050" />
+    <spannedText>Tas2r104</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="Entrez_Gene_Instance_31982" />
+    <annotator id="EG_sequence_names_Instance_20000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12474" end="12478" />
+    <spannedText>Prh1</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="Entrez_Gene_Instance_31984" />
+    <annotator id="EG_sequence_names_Instance_20000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13976" end="13984" />
+    <spannedText>Tas2r124</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="Entrez_Gene_Instance_31987" />
+    <annotator id="EG_sequence_names_Instance_20000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13963" end="13971" />
+    <spannedText>Tas2r106</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="Entrez_Gene_Instance_31988" />
+    <annotator id="EG_sequence_names_Instance_20000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12465" end="12469" />
+    <spannedText>Prp2</spannedText>
+  </annotation>
+  <classMention id="EG_sequence_names+database_IDs_Instance_24">
+    <mentionClass id="Entrez Gene sequence">Entrez Gene sequence</mentionClass>
+    <hasSlotMention id="EG_sequence_names+database_IDs_Instance_26" />
+  </classMention>
+  <integerSlotMention id="EG_sequence_names+database_IDs_Instance_26">
+    <mentionSlot id="has Entrez Gene ID" />
+    <integerSlotMentionValue value="61453" />
+  </integerSlotMention>
+  <classMention id="Entrez_Gene_Instance_31957">
+    <mentionClass id="Entrez Gene sequence">Entrez Gene sequence</mentionClass>
+    <hasSlotMention id="Entrez_Gene_Instance_31958" />
+  </classMention>
+  <integerSlotMention id="Entrez_Gene_Instance_31958">
+    <mentionSlot id="has Entrez Gene ID" />
+    <integerSlotMentionValue value="387346" />
+  </integerSlotMention>
+  <classMention id="Entrez_Gene_Instance_44925">
+    <mentionClass id="Entrez Gene sequence">Entrez Gene sequence</mentionClass>
+    <hasSlotMention id="Entrez_Gene_Instance_44924" />
+  </classMention>
+  <integerSlotMention id="Entrez_Gene_Instance_44924">
+    <mentionSlot id="has Entrez Gene ID" />
+    <integerSlotMentionValue value="387348" />
+  </integerSlotMention>
+  <classMention id="Entrez_Gene_Instance_31954">
+    <mentionClass id="Entrez Gene sequence">Entrez Gene sequence</mentionClass>
+    <hasSlotMention id="Entrez_Gene_Instance_31955" />
+  </classMention>
+  <integerSlotMention id="Entrez_Gene_Instance_31955">
+    <mentionSlot id="has Entrez Gene ID" />
+    <integerSlotMentionValue value="667992" />
+  </integerSlotMention>
+  <classMention id="Entrez_Gene_Instance_31952">
+    <mentionClass id="Entrez Gene sequence">Entrez Gene sequence</mentionClass>
+    <hasSlotMention id="Entrez_Gene_Instance_31953" />
+  </classMention>
+  <integerSlotMention id="Entrez_Gene_Instance_31953">
+    <mentionSlot id="has Entrez Gene ID" />
+    <integerSlotMentionValue value="387348" />
+  </integerSlotMention>
+  <classMention id="Entrez_Gene_Instance_31949">
+    <mentionClass id="Entrez Gene sequence">Entrez Gene sequence</mentionClass>
+    <hasSlotMention id="Entrez_Gene_Instance_31950" />
+  </classMention>
+  <integerSlotMention id="Entrez_Gene_Instance_31950">
+    <mentionSlot id="has Entrez Gene ID" />
+    <integerSlotMentionValue value="112408" />
+  </integerSlotMention>
+  <classMention id="Entrez_Gene_Instance_31965">
+    <mentionClass id="Entrez Gene sequence">Entrez Gene sequence</mentionClass>
+    <hasSlotMention id="Entrez_Gene_Instance_31966" />
+  </classMention>
+  <integerSlotMention id="Entrez_Gene_Instance_31966">
+    <mentionSlot id="has Entrez Gene ID" />
+    <integerSlotMentionValue value="387348" />
+  </integerSlotMention>
+  <classMention id="Entrez_Gene_Instance_31963">
+    <mentionClass id="Entrez Gene sequence">Entrez Gene sequence</mentionClass>
+    <hasSlotMention id="Entrez_Gene_Instance_31964" />
+  </classMention>
+  <integerSlotMention id="Entrez_Gene_Instance_31964">
+    <mentionSlot id="has Entrez Gene ID" />
+    <integerSlotMentionValue value="387356" />
+  </integerSlotMention>
+  <classMention id="Entrez_Gene_Instance_31960">
+    <mentionClass id="Entrez Gene sequence">Entrez Gene sequence</mentionClass>
+    <hasSlotMention id="Entrez_Gene_Instance_31961" />
+  </classMention>
+  <integerSlotMention id="Entrez_Gene_Instance_31961">
+    <mentionSlot id="has Entrez Gene ID" />
+    <integerSlotMentionValue value="387344" />
+  </integerSlotMention>
+  <classMention id="EG_sequence_names+database_IDs_Instance_12">
+    <mentionClass id="Entrez Gene sequence">Entrez Gene sequence</mentionClass>
+    <hasSlotMention id="EG_sequence_names+database_IDs_Instance_14" />
+  </classMention>
+  <integerSlotMention id="EG_sequence_names+database_IDs_Instance_14">
+    <mentionSlot id="has Entrez Gene ID" />
+    <integerSlotMentionValue value="62009" />
+  </integerSlotMention>
+  <classMention id="EG_sequence_names+database_IDs_Instance_9">
+    <mentionClass id="Entrez Gene sequence">Entrez Gene sequence</mentionClass>
+    <hasSlotMention id="EG_sequence_names+database_IDs_Instance_11" />
+  </classMention>
+  <integerSlotMention id="EG_sequence_names+database_IDs_Instance_11">
+    <mentionSlot id="has Entrez Gene ID" />
+    <integerSlotMentionValue value="62009" />
+  </integerSlotMention>
+  <classMention id="Entrez_Gene_Instance_31467">
+    <mentionClass id="Entrez Gene sequence">Entrez Gene sequence</mentionClass>
+    <hasSlotMention id="Entrez_Gene_Instance_31466" />
+  </classMention>
+  <integerSlotMention id="Entrez_Gene_Instance_31466">
+    <mentionSlot id="has Entrez Gene ID" />
+    <integerSlotMentionValue value="110007" />
+  </integerSlotMention>
+  <classMention id="Entrez_Gene_Instance_31967">
+    <mentionClass id="Entrez Gene sequence">Entrez Gene sequence</mentionClass>
+    <hasSlotMention id="Entrez_Gene_Instance_31959" />
+  </classMention>
+  <integerSlotMention id="Entrez_Gene_Instance_31959">
+    <mentionSlot id="has Entrez Gene ID" />
+    <integerSlotMentionValue value="387340" />
+  </integerSlotMention>
+  <classMention id="Entrez_Gene_Instance_31982">
+    <mentionClass id="Entrez Gene sequence">Entrez Gene sequence</mentionClass>
+    <hasSlotMention id="Entrez_Gene_Instance_31980" />
+  </classMention>
+  <integerSlotMention id="Entrez_Gene_Instance_31980">
+    <mentionSlot id="has Entrez Gene ID" />
+    <integerSlotMentionValue value="19131" />
+  </integerSlotMention>
+  <classMention id="EG_sequence_names+database_IDs_Instance_21">
+    <mentionClass id="Entrez Gene sequence">Entrez Gene sequence</mentionClass>
+    <hasSlotMention id="EG_sequence_names+database_IDs_Instance_23" />
+  </classMention>
+  <integerSlotMention id="EG_sequence_names+database_IDs_Instance_23">
+    <mentionSlot id="has Entrez Gene ID" />
+    <integerSlotMentionValue value="62009" />
+  </integerSlotMention>
+  <classMention id="Entrez_Gene_Instance_31984">
+    <mentionClass id="Entrez Gene sequence">Entrez Gene sequence</mentionClass>
+    <hasSlotMention id="Entrez_Gene_Instance_31951" />
+  </classMention>
+  <integerSlotMention id="Entrez_Gene_Instance_31951">
+    <mentionSlot id="has Entrez Gene ID" />
+    <integerSlotMentionValue value="387351" />
+  </integerSlotMention>
+  <classMention id="Entrez_Gene_Instance_31987">
+    <mentionClass id="Entrez Gene sequence">Entrez Gene sequence</mentionClass>
+    <hasSlotMention id="Entrez_Gene_Instance_31985" />
+  </classMention>
+  <integerSlotMention id="Entrez_Gene_Instance_31985">
+    <mentionSlot id="has Entrez Gene ID" />
+    <integerSlotMentionValue value="387341" />
+  </integerSlotMention>
+  <classMention id="Entrez_Gene_Instance_31988">
+    <mentionClass id="Entrez Gene sequence">Entrez Gene sequence</mentionClass>
+    <hasSlotMention id="Entrez_Gene_Instance_31986" />
+  </classMention>
+  <integerSlotMention id="Entrez_Gene_Instance_31986">
+    <mentionSlot id="has Entrez Gene ID" />
+    <integerSlotMentionValue value="83380" />
+  </integerSlotMention>
+  <classMention id="Entrez_Gene_Instance_31931">
+    <mentionClass id="Entrez Gene sequence">Entrez Gene sequence</mentionClass>
+    <hasSlotMention id="Entrez_Gene_Instance_31932" />
+  </classMention>
+  <integerSlotMention id="Entrez_Gene_Instance_31932">
+    <mentionSlot id="has Entrez Gene ID" />
+    <integerSlotMentionValue value="83380" />
+  </integerSlotMention>
+  <classMention id="Entrez_Gene_Instance_31962">
+    <mentionClass id="Entrez Gene sequence">Entrez Gene sequence</mentionClass>
+    <hasSlotMention id="Entrez_Gene_Instance_31933" />
+  </classMention>
+  <integerSlotMention id="Entrez_Gene_Instance_31933">
+    <mentionSlot id="has Entrez Gene ID" />
+    <integerSlotMentionValue value="387348" />
+  </integerSlotMention>
+  <classMention id="Entrez_Gene_Instance_31928">
+    <mentionClass id="Entrez Gene sequence">Entrez Gene sequence</mentionClass>
+    <hasSlotMention id="Entrez_Gene_Instance_31925" />
+  </classMention>
+  <integerSlotMention id="Entrez_Gene_Instance_31925">
+    <mentionSlot id="has Entrez Gene ID" />
+    <integerSlotMentionValue value="83771" />
+  </integerSlotMention>
+  <classMention id="EG_sequence_names+database_IDs_Instance_6">
+    <mentionClass id="Entrez Gene sequence">Entrez Gene sequence</mentionClass>
+    <hasSlotMention id="EG_sequence_names+database_IDs_Instance_8" />
+  </classMention>
+  <integerSlotMention id="EG_sequence_names+database_IDs_Instance_8">
+    <mentionSlot id="has Entrez Gene ID" />
+    <integerSlotMentionValue value="62009" />
+  </integerSlotMention>
+  <classMention id="EG_sequence_names+database_IDs_Instance_15">
+    <mentionClass id="Entrez Gene sequence">Entrez Gene sequence</mentionClass>
+    <hasSlotMention id="EG_sequence_names+database_IDs_Instance_17" />
+  </classMention>
+  <integerSlotMention id="EG_sequence_names+database_IDs_Instance_17">
+    <mentionSlot id="has Entrez Gene ID" />
+    <integerSlotMentionValue value="62009" />
+  </integerSlotMention>
+  <classMention id="EG_sequence_names+database_IDs_Instance_18">
+    <mentionClass id="Entrez Gene sequence">Entrez Gene sequence</mentionClass>
+    <hasSlotMention id="EG_sequence_names+database_IDs_Instance_20" />
+  </classMention>
+  <integerSlotMention id="EG_sequence_names+database_IDs_Instance_20">
+    <mentionSlot id="has Entrez Gene ID" />
+    <integerSlotMentionValue value="62009" />
+  </integerSlotMention>
+  <classMention id="Entrez_Gene_Instance_31935">
+    <mentionClass id="Entrez Gene sequence">Entrez Gene sequence</mentionClass>
+    <hasSlotMention id="Entrez_Gene_Instance_31934" />
+  </classMention>
+  <integerSlotMention id="Entrez_Gene_Instance_31934">
+    <mentionSlot id="has Entrez Gene ID" />
+    <integerSlotMentionValue value="19131" />
+  </integerSlotMention>
+  <classMention id="Entrez_Gene_Instance_31956">
+    <mentionClass id="Entrez Gene sequence">Entrez Gene sequence</mentionClass>
+    <hasSlotMention id="Entrez_Gene_Instance_31946" />
+  </classMention>
+  <integerSlotMention id="Entrez_Gene_Instance_31946">
+    <mentionSlot id="has Entrez Gene ID" />
+    <integerSlotMentionValue value="353166" />
+  </integerSlotMention>
+  <classMention id="Entrez_Gene_Instance_31947">
+    <mentionClass id="Entrez Gene sequence">Entrez Gene sequence</mentionClass>
+    <hasSlotMention id="Entrez_Gene_Instance_31948" />
+  </classMention>
+  <integerSlotMention id="Entrez_Gene_Instance_31948">
+    <mentionSlot id="has Entrez Gene ID" />
+    <integerSlotMentionValue value="57252" />
+  </integerSlotMention>
+</annotations>
+
